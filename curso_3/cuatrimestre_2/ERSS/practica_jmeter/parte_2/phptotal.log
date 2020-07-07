@@ -1,0 +1,1603 @@
+2020-05-27 21:29:30,154 INFO o.a.j.u.JMeterUtils: Setting Locale to es_ES
+2020-05-27 21:29:30,182 INFO o.a.j.u.JMeterUtils: Could not find resources for 'es_ES', using 'es'
+2020-05-27 21:29:30,184 INFO o.a.j.JMeter: Loading user properties from: /home/juaherr/Documentos/erss/practica_jmeter/jmeter/bin/user.properties
+2020-05-27 21:29:30,186 INFO o.a.j.JMeter: Loading system properties from: /home/juaherr/Documentos/erss/practica_jmeter/jmeter/bin/system.properties
+2020-05-27 21:29:30,186 INFO o.a.j.JMeter: Setting System property: PERFMON=perfPhptotal.jtl
+2020-05-27 21:29:30,188 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2020-05-27 21:29:30,188 INFO o.a.j.JMeter: Version 5.2.1
+2020-05-27 21:29:30,188 INFO o.a.j.JMeter: java.version=1.8.0_252
+2020-05-27 21:29:30,188 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2020-05-27 21:29:30,188 INFO o.a.j.JMeter: os.name=Linux
+2020-05-27 21:29:30,188 INFO o.a.j.JMeter: os.arch=amd64
+2020-05-27 21:29:30,188 INFO o.a.j.JMeter: os.version=5.4.28-gentoo-eii
+2020-05-27 21:29:30,188 INFO o.a.j.JMeter: file.encoding=UTF-8
+2020-05-27 21:29:30,188 INFO o.a.j.JMeter: java.awt.headless=true
+2020-05-27 21:29:30,189 INFO o.a.j.JMeter: Max memory     =259522560
+2020-05-27 21:29:30,189 INFO o.a.j.JMeter: Available Processors =1
+2020-05-27 21:29:30,197 INFO o.a.j.JMeter: Default Locale=español (España)
+2020-05-27 21:29:30,197 INFO o.a.j.JMeter: JMeter  Locale=español (España)
+2020-05-27 21:29:30,198 INFO o.a.j.JMeter: JMeterHome=/home/juaherr/Documentos/erss/practica_jmeter/jmeter
+2020-05-27 21:29:30,198 INFO o.a.j.JMeter: user.dir  =/home/juaherr/Documentos/erss/practica_jmeter/practica2
+2020-05-27 21:29:30,198 INFO o.a.j.JMeter: PWD       =/home/juaherr/Documentos/erss/practica_jmeter/practica2
+2020-05-27 21:29:30,198 INFO o.a.j.JMeter: IP: 157.88.125.192 Name: jair.lab.inf.uva.es FullName: jair.lab.inf.uva.es
+2020-05-27 21:29:30,204 INFO o.a.j.s.FileServer: Default base='/home/juaherr/Documentos/erss/practica_jmeter/practica2'
+2020-05-27 21:29:30,209 INFO o.a.j.s.FileServer: Set new base='/home/juaherr/Documentos/erss/practica_jmeter/practica2'
+2020-05-27 21:29:30,397 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-05-27 21:29:30,411 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-05-27 21:29:30,420 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2020-05-27 21:29:30,430 INFO o.a.j.s.SaveService: Loading file: phptotal.jmx
+2020-05-27 21:29:30,502 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-27 21:29:30,503 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-27 21:29:30,503 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-27 21:29:30,503 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-27 21:29:30,503 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-05-27 21:29:30,503 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-05-27 21:29:30,540 INFO o.a.j.JMeter: Creating summariser <summary>
+2020-05-27 21:29:30,548 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-05-27 21:29:30,549 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-05-27 21:29:30,549 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-05-27 21:29:30,561 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-05-27 21:29:30,561 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2020-05-27 21:29:31,051 INFO o.a.j.JMeter: Test lanzado (1590607771050)
+2020-05-27 21:29:31,085 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : jp@gc - Ultimate Thread Group
+2020-05-27 21:29:31,086 INFO o.a.j.e.StandardJMeterEngine: Starting 480 threads for group jp@gc - Ultimate Thread Group.
+2020-05-27 21:29:31,086 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-05-27 21:29:31,086 INFO k.a.j.t.AbstractSimpleThreadGroup: Starting thread group number 1 threads 480
+2020-05-27 21:29:31,391 INFO k.a.j.t.AbstractSimpleThreadGroup: Started thread group number 1
+2020-05-27 21:29:31,391 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-05-27 21:29:31,619 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-15
+2020-05-27 21:29:31,667 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = jair.lab.inf.uva.es
+2020-05-27 21:29:31,676 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2020-05-27 21:29:31,679 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-05-27 21:29:31,679 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-05-27 21:29:31,679 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-05-27 21:29:31,679 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-05-27 21:29:32,152 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-14
+2020-05-27 21:29:32,686 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-13
+2020-05-27 21:29:32,833 INFO o.a.j.r.Summariser: summary +      1 in 00:00:02 =    0,6/s Avg:   980 Min:   980 Max:   980 Err:     0 (0,00%) Active: 3 Started: 3 Finished: 0
+2020-05-27 21:29:32,874 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2020-05-27 21:29:32,874 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2020-05-27 21:29:33,219 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-12
+2020-05-27 21:29:33,752 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-11
+2020-05-27 21:29:34,287 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-10
+2020-05-27 21:29:34,820 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-9
+2020-05-27 21:29:35,352 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-8
+2020-05-27 21:29:35,887 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-7
+2020-05-27 21:29:36,420 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-6
+2020-05-27 21:29:36,952 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-5
+2020-05-27 21:29:37,487 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-4
+2020-05-27 21:29:38,020 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-3
+2020-05-27 21:29:38,558 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-2
+2020-05-27 21:29:39,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-1
+2020-05-27 21:30:00,811 INFO o.a.j.r.Summariser: summary +     55 in 00:00:28 =    2,0/s Avg:  6079 Min:  1249 Max:  7402 Err:     0 (0,00%) Active: 15 Started: 15 Finished: 0
+2020-05-27 21:30:00,812 INFO o.a.j.r.Summariser: summary =     56 in 00:00:30 =    1,9/s Avg:  5988 Min:   980 Max:  7402 Err:     0 (0,00%)
+2020-05-27 21:30:30,160 INFO o.a.j.r.Summariser: summary +     63 in 00:00:29 =    2,1/s Avg:  6929 Min:  6335 Max:  7331 Err:     0 (0,00%) Active: 15 Started: 15 Finished: 0
+2020-05-27 21:30:30,161 INFO o.a.j.r.Summariser: summary =    119 in 00:00:59 =    2,0/s Avg:  6487 Min:   980 Max:  7402 Err:     0 (0,00%)
+2020-05-27 21:31:00,391 INFO o.a.j.r.Summariser: summary +     65 in 00:00:30 =    2,2/s Avg:  6977 Min:  6472 Max:  7375 Err:     0 (0,00%) Active: 15 Started: 15 Finished: 0
+2020-05-27 21:31:00,392 INFO o.a.j.r.Summariser: summary =    184 in 00:01:29 =    2,1/s Avg:  6660 Min:   980 Max:  7402 Err:     0 (0,00%)
+2020-05-27 21:31:30,067 INFO o.a.j.r.Summariser: summary +     65 in 00:00:30 =    2,2/s Avg:  6919 Min:  6560 Max:  7377 Err:     0 (0,00%) Active: 15 Started: 15 Finished: 0
+2020-05-27 21:31:30,068 INFO o.a.j.r.Summariser: summary =    249 in 00:01:59 =    2,1/s Avg:  6727 Min:   980 Max:  7402 Err:     0 (0,00%)
+2020-05-27 21:32:00,198 INFO o.a.j.r.Summariser: summary +     64 in 00:00:30 =    2,1/s Avg:  6941 Min:  6426 Max:  7394 Err:     0 (0,00%) Active: 15 Started: 15 Finished: 0
+2020-05-27 21:32:00,199 INFO o.a.j.r.Summariser: summary =    313 in 00:02:29 =    2,1/s Avg:  6771 Min:   980 Max:  7402 Err:     0 (0,00%)
+2020-05-27 21:32:30,090 INFO o.a.j.r.Summariser: summary +     65 in 00:00:30 =    2,2/s Avg:  6998 Min:  6426 Max:  7659 Err:     0 (0,00%) Active: 15 Started: 15 Finished: 0
+2020-05-27 21:32:30,091 INFO o.a.j.r.Summariser: summary =    378 in 00:02:59 =    2,1/s Avg:  6810 Min:   980 Max:  7659 Err:     0 (0,00%)
+2020-05-27 21:32:59,620 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-30
+2020-05-27 21:33:00,054 INFO o.a.j.r.Summariser: summary +     64 in 00:00:30 =    2,1/s Avg:  6862 Min:  6319 Max:  7401 Err:     0 (0,00%) Active: 16 Started: 16 Finished: 0
+2020-05-27 21:33:00,055 INFO o.a.j.r.Summariser: summary =    442 in 00:03:29 =    2,1/s Avg:  6818 Min:   980 Max:  7659 Err:     0 (0,00%)
+2020-05-27 21:33:00,153 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-29
+2020-05-27 21:33:00,687 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-28
+2020-05-27 21:33:01,220 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-27
+2020-05-27 21:33:01,753 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-26
+2020-05-27 21:33:02,286 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-25
+2020-05-27 21:33:02,819 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-24
+2020-05-27 21:33:03,352 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-23
+2020-05-27 21:33:03,886 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-22
+2020-05-27 21:33:04,419 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-21
+2020-05-27 21:33:04,952 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-20
+2020-05-27 21:33:05,486 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-19
+2020-05-27 21:33:06,019 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-18
+2020-05-27 21:33:06,552 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-17
+2020-05-27 21:33:07,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-16
+2020-05-27 21:33:30,478 INFO o.a.j.r.Summariser: summary +     59 in 00:00:30 =    1,9/s Avg: 12197 Min:  6820 Max: 14197 Err:     0 (0,00%) Active: 30 Started: 30 Finished: 0
+2020-05-27 21:33:30,478 INFO o.a.j.r.Summariser: summary =    501 in 00:03:59 =    2,1/s Avg:  7451 Min:   980 Max: 14197 Err:     0 (0,00%)
+2020-05-27 21:34:00,260 INFO o.a.j.r.Summariser: summary +     65 in 00:00:30 =    2,2/s Avg: 13772 Min: 13266 Max: 14271 Err:     0 (0,00%) Active: 30 Started: 30 Finished: 0
+2020-05-27 21:34:00,261 INFO o.a.j.r.Summariser: summary =    566 in 00:04:29 =    2,1/s Avg:  8177 Min:   980 Max: 14271 Err:     0 (0,00%)
+2020-05-27 21:34:30,152 INFO o.a.j.r.Summariser: summary +     63 in 00:00:30 =    2,1/s Avg: 14094 Min: 12897 Max: 14730 Err:     0 (0,00%) Active: 30 Started: 30 Finished: 0
+2020-05-27 21:34:30,153 INFO o.a.j.r.Summariser: summary =    629 in 00:04:59 =    2,1/s Avg:  8770 Min:   980 Max: 14730 Err:     0 (0,00%)
+2020-05-27 21:35:00,105 INFO o.a.j.r.Summariser: summary +     65 in 00:00:30 =    2,2/s Avg: 13982 Min: 13027 Max: 14747 Err:     0 (0,00%) Active: 30 Started: 30 Finished: 0
+2020-05-27 21:35:00,106 INFO o.a.j.r.Summariser: summary =    694 in 00:05:29 =    2,1/s Avg:  9258 Min:   980 Max: 14747 Err:     0 (0,00%)
+2020-05-27 21:35:30,054 INFO o.a.j.r.Summariser: summary +     63 in 00:00:30 =    2,1/s Avg: 13923 Min: 13301 Max: 14738 Err:     0 (0,00%) Active: 30 Started: 30 Finished: 0
+2020-05-27 21:35:30,055 INFO o.a.j.r.Summariser: summary =    757 in 00:05:59 =    2,1/s Avg:  9646 Min:   980 Max: 14747 Err:     0 (0,00%)
+2020-05-27 21:36:00,225 INFO o.a.j.r.Summariser: summary +     66 in 00:00:30 =    2,2/s Avg: 14005 Min: 13312 Max: 15330 Err:     0 (0,00%) Active: 30 Started: 30 Finished: 0
+2020-05-27 21:36:00,225 INFO o.a.j.r.Summariser: summary =    823 in 00:06:29 =    2,1/s Avg:  9996 Min:   980 Max: 15330 Err:     0 (0,00%)
+2020-05-27 21:36:27,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-60
+2020-05-27 21:36:28,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-59
+2020-05-27 21:36:28,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-58
+2020-05-27 21:36:29,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-57
+2020-05-27 21:36:29,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-56
+2020-05-27 21:36:30,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-55
+2020-05-27 21:36:30,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-54
+2020-05-27 21:36:30,653 INFO o.a.j.r.Summariser: summary +     65 in 00:00:30 =    2,1/s Avg: 13953 Min: 13293 Max: 15347 Err:     0 (0,00%) Active: 37 Started: 37 Finished: 0
+2020-05-27 21:36:30,653 INFO o.a.j.r.Summariser: summary =    888 in 00:07:00 =    2,1/s Avg: 10285 Min:   980 Max: 15347 Err:     0 (0,00%)
+2020-05-27 21:36:31,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-53
+2020-05-27 21:36:31,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-52
+2020-05-27 21:36:32,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-51
+2020-05-27 21:36:32,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-50
+2020-05-27 21:36:33,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-49
+2020-05-27 21:36:33,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-48
+2020-05-27 21:36:34,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-47
+2020-05-27 21:36:34,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-46
+2020-05-27 21:36:35,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-45
+2020-05-27 21:36:35,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-44
+2020-05-27 21:36:36,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-43
+2020-05-27 21:36:36,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-42
+2020-05-27 21:36:37,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-41
+2020-05-27 21:36:37,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-40
+2020-05-27 21:36:38,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-39
+2020-05-27 21:36:38,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-38
+2020-05-27 21:36:39,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-37
+2020-05-27 21:36:39,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-36
+2020-05-27 21:36:40,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-35
+2020-05-27 21:36:40,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-34
+2020-05-27 21:36:41,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-33
+2020-05-27 21:36:41,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-32
+2020-05-27 21:36:42,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-31
+2020-05-27 21:37:01,455 INFO o.a.j.r.Summariser: summary +     49 in 00:00:31 =    1,6/s Avg: 21714 Min: 14275 Max: 27365 Err:     0 (0,00%) Active: 60 Started: 60 Finished: 0
+2020-05-27 21:37:01,455 INFO o.a.j.r.Summariser: summary =    937 in 00:07:30 =    2,1/s Avg: 10883 Min:   980 Max: 27365 Err:     0 (0,00%)
+2020-05-27 21:37:30,092 INFO o.a.j.r.Summariser: summary +     61 in 00:00:29 =    2,1/s Avg: 28084 Min: 26858 Max: 29086 Err:     0 (0,00%) Active: 60 Started: 60 Finished: 0
+2020-05-27 21:37:30,092 INFO o.a.j.r.Summariser: summary =    998 in 00:07:59 =    2,1/s Avg: 11934 Min:   980 Max: 29086 Err:     0 (0,00%)
+2020-05-27 21:38:00,109 INFO o.a.j.r.Summariser: summary +     66 in 00:00:30 =    2,2/s Avg: 27868 Min: 26629 Max: 29331 Err:     0 (0,00%) Active: 60 Started: 60 Finished: 0
+2020-05-27 21:38:00,110 INFO o.a.j.r.Summariser: summary =   1064 in 00:08:29 =    2,1/s Avg: 12923 Min:   980 Max: 29331 Err:     0 (0,00%)
+2020-05-27 21:38:30,733 INFO o.a.j.r.Summariser: summary +     66 in 00:00:31 =    2,2/s Avg: 28388 Min: 27343 Max: 29236 Err:     0 (0,00%) Active: 60 Started: 60 Finished: 0
+2020-05-27 21:38:30,734 INFO o.a.j.r.Summariser: summary =   1130 in 00:09:00 =    2,1/s Avg: 13826 Min:   980 Max: 29331 Err:     0 (0,00%)
+2020-05-27 21:39:00,557 INFO o.a.j.r.Summariser: summary +     66 in 00:00:30 =    2,2/s Avg: 27826 Min: 26977 Max: 29431 Err:     0 (0,00%) Active: 60 Started: 60 Finished: 0
+2020-05-27 21:39:00,558 INFO o.a.j.r.Summariser: summary =   1196 in 00:09:30 =    2,1/s Avg: 14599 Min:   980 Max: 29431 Err:     0 (0,00%)
+2020-05-27 21:39:31,467 INFO o.a.j.r.Summariser: summary +     66 in 00:00:31 =    2,1/s Avg: 28081 Min: 27006 Max: 29136 Err:     0 (0,00%) Active: 60 Started: 60 Finished: 0
+2020-05-27 21:39:31,468 INFO o.a.j.r.Summariser: summary =   1262 in 00:10:00 =    2,1/s Avg: 15304 Min:   980 Max: 29431 Err:     0 (0,00%)
+2020-05-27 21:40:00,694 INFO o.a.j.r.Summariser: summary +     61 in 00:00:29 =    2,1/s Avg: 27998 Min: 27382 Max: 28906 Err:     0 (0,00%) Active: 60 Started: 60 Finished: 0
+2020-05-27 21:40:00,695 INFO o.a.j.r.Summariser: summary =   1323 in 00:10:30 =    2,1/s Avg: 15889 Min:   980 Max: 29431 Err:     0 (0,00%)
+2020-05-27 21:40:02,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-120
+2020-05-27 21:40:03,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-119
+2020-05-27 21:40:03,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-118
+2020-05-27 21:40:04,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-117
+2020-05-27 21:40:04,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-116
+2020-05-27 21:40:05,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-115
+2020-05-27 21:40:05,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-114
+2020-05-27 21:40:06,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-113
+2020-05-27 21:40:06,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-112
+2020-05-27 21:40:07,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-111
+2020-05-27 21:40:07,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-110
+2020-05-27 21:40:08,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-109
+2020-05-27 21:40:08,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-108
+2020-05-27 21:40:09,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-107
+2020-05-27 21:40:09,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-106
+2020-05-27 21:40:10,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-105
+2020-05-27 21:40:10,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-104
+2020-05-27 21:40:11,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-103
+2020-05-27 21:40:11,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-102
+2020-05-27 21:40:12,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-101
+2020-05-27 21:40:12,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-100
+2020-05-27 21:40:13,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-99
+2020-05-27 21:40:13,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-98
+2020-05-27 21:40:14,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-97
+2020-05-27 21:40:14,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-96
+2020-05-27 21:40:15,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-95
+2020-05-27 21:40:15,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-94
+2020-05-27 21:40:16,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-93
+2020-05-27 21:40:16,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-92
+2020-05-27 21:40:17,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-91
+2020-05-27 21:40:17,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-90
+2020-05-27 21:40:18,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-89
+2020-05-27 21:40:18,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-88
+2020-05-27 21:40:19,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-87
+2020-05-27 21:40:19,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-86
+2020-05-27 21:40:20,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-85
+2020-05-27 21:40:20,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-84
+2020-05-27 21:40:21,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-83
+2020-05-27 21:40:21,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-82
+2020-05-27 21:40:22,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-81
+2020-05-27 21:40:22,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-80
+2020-05-27 21:40:23,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-79
+2020-05-27 21:40:23,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-78
+2020-05-27 21:40:24,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-77
+2020-05-27 21:40:24,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-76
+2020-05-27 21:40:25,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-75
+2020-05-27 21:40:25,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-74
+2020-05-27 21:40:26,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-73
+2020-05-27 21:40:26,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-72
+2020-05-27 21:40:27,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-71
+2020-05-27 21:40:27,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-70
+2020-05-27 21:40:28,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-69
+2020-05-27 21:40:28,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-68
+2020-05-27 21:40:29,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-67
+2020-05-27 21:40:29,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-66
+2020-05-27 21:40:30,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-65
+2020-05-27 21:40:30,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-64
+2020-05-27 21:40:30,900 INFO o.a.j.r.Summariser: summary +     46 in 00:00:30 =    1,5/s Avg: 31283 Min: 27964 Max: 36654 Err:     0 (0,00%) Active: 117 Started: 117 Finished: 0
+2020-05-27 21:40:30,900 INFO o.a.j.r.Summariser: summary =   1369 in 00:11:00 =    2,1/s Avg: 16406 Min:   980 Max: 36654 Err:     0 (0,00%)
+2020-05-27 21:40:31,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-63
+2020-05-27 21:40:31,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-62
+2020-05-27 21:40:32,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-61
+2020-05-27 21:41:00,542 INFO o.a.j.r.Summariser: summary +     44 in 00:00:30 =    1,5/s Avg: 45602 Min: 36267 Max: 50454 Err:     0 (0,00%) Active: 120 Started: 120 Finished: 0
+2020-05-27 21:41:00,543 INFO o.a.j.r.Summariser: summary =   1413 in 00:11:29 =    2,0/s Avg: 17315 Min:   980 Max: 50454 Err:     0 (0,00%)
+2020-05-27 21:41:30,521 INFO o.a.j.r.Summariser: summary +     80 in 00:00:30 =    2,7/s Avg: 54914 Min: 50779 Max: 58244 Err:     0 (0,00%) Active: 120 Started: 120 Finished: 0
+2020-05-27 21:41:30,522 INFO o.a.j.r.Summariser: summary =   1493 in 00:11:59 =    2,1/s Avg: 19330 Min:   980 Max: 58244 Err:     0 (0,00%)
+2020-05-27 21:42:00,626 INFO o.a.j.r.Summariser: summary +     48 in 00:00:30 =    1,6/s Avg: 56450 Min: 54674 Max: 58137 Err:     0 (0,00%) Active: 120 Started: 120 Finished: 0
+2020-05-27 21:42:00,627 INFO o.a.j.r.Summariser: summary =   1541 in 00:12:30 =    2,1/s Avg: 20486 Min:   980 Max: 58244 Err:     0 (0,00%)
+2020-05-27 21:42:30,741 INFO o.a.j.r.Summariser: summary +     78 in 00:00:30 =    2,6/s Avg: 55962 Min: 54356 Max: 58470 Err:     0 (0,00%) Active: 120 Started: 120 Finished: 0
+2020-05-27 21:42:30,741 INFO o.a.j.r.Summariser: summary =   1619 in 00:13:00 =    2,1/s Avg: 22195 Min:   980 Max: 58470 Err:     0 (0,00%)
+2020-05-27 21:43:00,173 INFO o.a.j.r.Summariser: summary +     51 in 00:00:29 =    1,7/s Avg: 55792 Min: 54621 Max: 57695 Err:     0 (0,00%) Active: 120 Started: 120 Finished: 0
+2020-05-27 21:43:00,174 INFO o.a.j.r.Summariser: summary =   1670 in 00:13:29 =    2,1/s Avg: 23221 Min:   980 Max: 58470 Err:     0 (0,00%)
+2020-05-27 21:43:31,227 INFO o.a.j.r.Summariser: summary +     72 in 00:00:31 =    2,3/s Avg: 55934 Min: 54272 Max: 58399 Err:     0 (0,00%) Active: 120 Started: 120 Finished: 0
+2020-05-27 21:43:31,228 INFO o.a.j.r.Summariser: summary =   1742 in 00:14:00 =    2,1/s Avg: 24574 Min:   980 Max: 58470 Err:     0 (0,00%)
+2020-05-27 21:43:52,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-240
+2020-05-27 21:43:53,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-239
+2020-05-27 21:43:53,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-238
+2020-05-27 21:43:54,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-237
+2020-05-27 21:43:54,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-236
+2020-05-27 21:43:55,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-235
+2020-05-27 21:43:55,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-234
+2020-05-27 21:43:56,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-233
+2020-05-27 21:43:56,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-232
+2020-05-27 21:43:57,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-231
+2020-05-27 21:43:57,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-230
+2020-05-27 21:43:58,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-229
+2020-05-27 21:43:58,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-228
+2020-05-27 21:43:59,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-227
+2020-05-27 21:43:59,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-226
+2020-05-27 21:44:00,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-225
+2020-05-27 21:44:00,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-224
+2020-05-27 21:44:00,838 INFO o.a.j.r.Summariser: summary +     59 in 00:00:30 =    2,0/s Avg: 55727 Min: 54313 Max: 57824 Err:     0 (0,00%) Active: 137 Started: 137 Finished: 0
+2020-05-27 21:44:00,839 INFO o.a.j.r.Summariser: summary =   1801 in 00:14:30 =    2,1/s Avg: 25594 Min:   980 Max: 58470 Err:     0 (0,00%)
+2020-05-27 21:44:01,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-223
+2020-05-27 21:44:01,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-222
+2020-05-27 21:44:02,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-221
+2020-05-27 21:44:02,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-220
+2020-05-27 21:44:03,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-219
+2020-05-27 21:44:03,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-218
+2020-05-27 21:44:04,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-217
+2020-05-27 21:44:04,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-216
+2020-05-27 21:44:05,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-215
+2020-05-27 21:44:05,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-214
+2020-05-27 21:44:06,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-213
+2020-05-27 21:44:06,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-212
+2020-05-27 21:44:07,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-211
+2020-05-27 21:44:07,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-210
+2020-05-27 21:44:08,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-209
+2020-05-27 21:44:08,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-208
+2020-05-27 21:44:09,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-207
+2020-05-27 21:44:09,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-206
+2020-05-27 21:44:10,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-205
+2020-05-27 21:44:10,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-204
+2020-05-27 21:44:11,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-203
+2020-05-27 21:44:11,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-202
+2020-05-27 21:44:12,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-201
+2020-05-27 21:44:12,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-200
+2020-05-27 21:44:13,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-199
+2020-05-27 21:44:13,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-198
+2020-05-27 21:44:14,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-197
+2020-05-27 21:44:14,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-196
+2020-05-27 21:44:15,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-195
+2020-05-27 21:44:15,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-194
+2020-05-27 21:44:16,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-193
+2020-05-27 21:44:16,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-192
+2020-05-27 21:44:17,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-191
+2020-05-27 21:44:17,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-190
+2020-05-27 21:44:18,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-189
+2020-05-27 21:44:18,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-188
+2020-05-27 21:44:19,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-187
+2020-05-27 21:44:19,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-186
+2020-05-27 21:44:20,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-185
+2020-05-27 21:44:20,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-184
+2020-05-27 21:44:21,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-183
+2020-05-27 21:44:21,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-182
+2020-05-27 21:44:22,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-181
+2020-05-27 21:44:22,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-180
+2020-05-27 21:44:23,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-179
+2020-05-27 21:44:23,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-178
+2020-05-27 21:44:24,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-177
+2020-05-27 21:44:24,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-176
+2020-05-27 21:44:25,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-175
+2020-05-27 21:44:25,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-174
+2020-05-27 21:44:26,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-173
+2020-05-27 21:44:26,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-172
+2020-05-27 21:44:27,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-171
+2020-05-27 21:44:27,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-170
+2020-05-27 21:44:28,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-169
+2020-05-27 21:44:28,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-168
+2020-05-27 21:44:29,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-167
+2020-05-27 21:44:29,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-166
+2020-05-27 21:44:30,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-165
+2020-05-27 21:44:30,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-164
+2020-05-27 21:44:30,993 INFO o.a.j.r.Summariser: summary +     60 in 00:00:30 =    2,0/s Avg: 59052 Min: 56157 Max: 62621 Err:     0 (0,00%) Active: 197 Started: 197 Finished: 0
+2020-05-27 21:44:30,994 INFO o.a.j.r.Summariser: summary =   1861 in 00:15:00 =    2,1/s Avg: 26673 Min:   980 Max: 62621 Err:     0 (0,00%)
+2020-05-27 21:44:31,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-163
+2020-05-27 21:44:31,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-162
+2020-05-27 21:44:32,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-161
+2020-05-27 21:44:32,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-160
+2020-05-27 21:44:33,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-159
+2020-05-27 21:44:33,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-158
+2020-05-27 21:44:34,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-157
+2020-05-27 21:44:34,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-156
+2020-05-27 21:44:35,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-155
+2020-05-27 21:44:35,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-154
+2020-05-27 21:44:36,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-153
+2020-05-27 21:44:36,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-152
+2020-05-27 21:44:37,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-151
+2020-05-27 21:44:37,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-150
+2020-05-27 21:44:38,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-149
+2020-05-27 21:44:38,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-148
+2020-05-27 21:44:39,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-147
+2020-05-27 21:44:39,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-146
+2020-05-27 21:44:40,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-145
+2020-05-27 21:44:40,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-144
+2020-05-27 21:44:41,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-143
+2020-05-27 21:44:41,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-142
+2020-05-27 21:44:42,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-141
+2020-05-27 21:44:42,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-140
+2020-05-27 21:44:43,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-139
+2020-05-27 21:44:43,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-138
+2020-05-27 21:44:44,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-137
+2020-05-27 21:44:44,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-136
+2020-05-27 21:44:45,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-135
+2020-05-27 21:44:45,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-134
+2020-05-27 21:44:46,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-133
+2020-05-27 21:44:46,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-132
+2020-05-27 21:44:47,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-131
+2020-05-27 21:44:47,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-130
+2020-05-27 21:44:48,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-129
+2020-05-27 21:44:48,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-128
+2020-05-27 21:44:49,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-127
+2020-05-27 21:44:49,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-126
+2020-05-27 21:44:50,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-125
+2020-05-27 21:44:50,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-124
+2020-05-27 21:44:51,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-123
+2020-05-27 21:44:51,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-122
+2020-05-27 21:44:52,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-121
+2020-05-27 21:45:00,507 INFO o.a.j.r.Summariser: summary +     39 in 00:00:30 =    1,3/s Avg: 66053 Min: 62140 Max: 68889 Err:     0 (0,00%) Active: 240 Started: 240 Finished: 0
+2020-05-27 21:45:00,508 INFO o.a.j.r.Summariser: summary =   1900 in 00:15:29 =    2,0/s Avg: 27481 Min:   980 Max: 68889 Err:     0 (0,00%)
+2020-05-27 21:45:30,245 INFO o.a.j.r.Summariser: summary +     99 in 00:00:30 =    3,3/s Avg: 70719 Min: 67507 Max: 75466 Err:     0 (0,00%) Active: 240 Started: 240 Finished: 0
+2020-05-27 21:45:30,245 INFO o.a.j.r.Summariser: summary =   1999 in 00:15:59 =    2,1/s Avg: 29622 Min:   980 Max: 75466 Err:     0 (0,00%)
+2020-05-27 21:46:00,462 INFO o.a.j.r.Summariser: summary +     32 in 00:00:30 =    1,1/s Avg: 88327 Min: 74590 Max: 99315 Err:     0 (0,00%) Active: 240 Started: 240 Finished: 0
+2020-05-27 21:46:00,463 INFO o.a.j.r.Summariser: summary =   2031 in 00:16:29 =    2,1/s Avg: 30547 Min:   980 Max: 99315 Err:     0 (0,00%)
+2020-05-27 21:46:30,080 INFO o.a.j.r.Summariser: summary +     93 in 00:00:30 =    3,1/s Avg: 99047 Min: 94528 Max: 103489 Err:     0 (0,00%) Active: 240 Started: 240 Finished: 0
+2020-05-27 21:46:30,081 INFO o.a.j.r.Summariser: summary =   2124 in 00:16:59 =    2,1/s Avg: 33547 Min:   980 Max: 103489 Err:     0 (0,00%)
+2020-05-27 21:47:00,879 INFO o.a.j.r.Summariser: summary +     43 in 00:00:31 =    1,4/s Avg: 99456 Min: 94391 Max: 113021 Err:     0 (0,00%) Active: 240 Started: 240 Finished: 0
+2020-05-27 21:47:00,880 INFO o.a.j.r.Summariser: summary =   2167 in 00:17:30 =    2,1/s Avg: 34855 Min:   980 Max: 113021 Err:     0 (0,00%)
+2020-05-27 21:47:30,018 INFO o.a.j.r.Summariser: summary +     69 in 00:00:29 =    2,4/s Avg: 120948 Min: 112088 Max: 124777 Err:     0 (0,00%) Active: 240 Started: 240 Finished: 0
+2020-05-27 21:47:30,019 INFO o.a.j.r.Summariser: summary =   2236 in 00:17:59 =    2,1/s Avg: 37511 Min:   980 Max: 124777 Err:     0 (0,00%)
+2020-05-27 21:48:04,125 INFO o.a.j.r.Summariser: summary +     75 in 00:00:34 =    2,2/s Avg: 104008 Min: 96298 Max: 122623 Err:     0 (0,00%) Active: 240 Started: 240 Finished: 0
+2020-05-27 21:48:04,126 INFO o.a.j.r.Summariser: summary =   2311 in 00:18:33 =    2,1/s Avg: 39669 Min:   980 Max: 124777 Err:     0 (0,00%)
+2020-05-27 21:48:12,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-480
+2020-05-27 21:48:13,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-479
+2020-05-27 21:48:13,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-478
+2020-05-27 21:48:14,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-477
+2020-05-27 21:48:14,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-476
+2020-05-27 21:48:15,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-475
+2020-05-27 21:48:15,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-474
+2020-05-27 21:48:16,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-473
+2020-05-27 21:48:16,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-472
+2020-05-27 21:48:17,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-471
+2020-05-27 21:48:17,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-470
+2020-05-27 21:48:18,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-469
+2020-05-27 21:48:18,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-468
+2020-05-27 21:48:19,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-467
+2020-05-27 21:48:19,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-466
+2020-05-27 21:48:20,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-465
+2020-05-27 21:48:20,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-464
+2020-05-27 21:48:21,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-463
+2020-05-27 21:48:21,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-462
+2020-05-27 21:48:22,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-461
+2020-05-27 21:48:22,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-460
+2020-05-27 21:48:23,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-459
+2020-05-27 21:48:23,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-458
+2020-05-27 21:48:24,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-457
+2020-05-27 21:48:24,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-456
+2020-05-27 21:48:25,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-455
+2020-05-27 21:48:25,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-454
+2020-05-27 21:48:26,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-453
+2020-05-27 21:48:26,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-452
+2020-05-27 21:48:27,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-451
+2020-05-27 21:48:27,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-450
+2020-05-27 21:48:28,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-449
+2020-05-27 21:48:28,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-448
+2020-05-27 21:48:29,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-447
+2020-05-27 21:48:29,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-446
+2020-05-27 21:48:30,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-445
+2020-05-27 21:48:30,106 INFO o.a.j.r.Summariser: summary +     40 in 00:00:26 =    1,5/s Avg: 119015 Min: 109271 Max: 125061 Err:     0 (0,00%) Active: 276 Started: 276 Finished: 0
+2020-05-27 21:48:30,107 INFO o.a.j.r.Summariser: summary =   2351 in 00:18:59 =    2,1/s Avg: 41019 Min:   980 Max: 125061 Err:     0 (0,00%)
+2020-05-27 21:48:30,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-444
+2020-05-27 21:48:31,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-443
+2020-05-27 21:48:31,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-442
+2020-05-27 21:48:32,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-441
+2020-05-27 21:48:32,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-440
+2020-05-27 21:48:33,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-439
+2020-05-27 21:48:33,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-438
+2020-05-27 21:48:34,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-437
+2020-05-27 21:48:34,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-436
+2020-05-27 21:48:35,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-435
+2020-05-27 21:48:35,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-434
+2020-05-27 21:48:36,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-433
+2020-05-27 21:48:36,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-432
+2020-05-27 21:48:37,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-431
+2020-05-27 21:48:37,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-430
+2020-05-27 21:48:38,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-429
+2020-05-27 21:48:38,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-428
+2020-05-27 21:48:39,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-427
+2020-05-27 21:48:39,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-426
+2020-05-27 21:48:40,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-425
+2020-05-27 21:48:40,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-424
+2020-05-27 21:48:41,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-423
+2020-05-27 21:48:41,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-422
+2020-05-27 21:48:42,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-421
+2020-05-27 21:48:42,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-420
+2020-05-27 21:48:43,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-419
+2020-05-27 21:48:43,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-418
+2020-05-27 21:48:44,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-417
+2020-05-27 21:48:44,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-416
+2020-05-27 21:48:45,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-415
+2020-05-27 21:48:45,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-414
+2020-05-27 21:48:46,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-413
+2020-05-27 21:48:46,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-412
+2020-05-27 21:48:47,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-411
+2020-05-27 21:48:47,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-410
+2020-05-27 21:48:48,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-409
+2020-05-27 21:48:48,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-408
+2020-05-27 21:48:49,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-407
+2020-05-27 21:48:49,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-406
+2020-05-27 21:48:50,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-405
+2020-05-27 21:48:50,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-404
+2020-05-27 21:48:51,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-403
+2020-05-27 21:48:51,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-402
+2020-05-27 21:48:52,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-401
+2020-05-27 21:48:52,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-400
+2020-05-27 21:48:53,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-399
+2020-05-27 21:48:53,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-398
+2020-05-27 21:48:54,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-397
+2020-05-27 21:48:54,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-396
+2020-05-27 21:48:55,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-395
+2020-05-27 21:48:55,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-394
+2020-05-27 21:48:56,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-393
+2020-05-27 21:48:56,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-392
+2020-05-27 21:48:57,146 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-391
+2020-05-27 21:48:57,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-390
+2020-05-27 21:48:58,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-389
+2020-05-27 21:48:58,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-388
+2020-05-27 21:48:59,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-387
+2020-05-27 21:48:59,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-386
+2020-05-27 21:49:00,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-385
+2020-05-27 21:49:00,087 INFO o.a.j.r.Summariser: summary +     95 in 00:00:30 =    3,2/s Avg: 112763 Min: 97386 Max: 126972 Err:     0 (0,00%) Active: 335 Started: 335 Finished: 0
+2020-05-27 21:49:00,087 INFO o.a.j.r.Summariser: summary =   2446 in 00:19:29 =    2,1/s Avg: 43806 Min:   980 Max: 126972 Err:     0 (0,00%)
+2020-05-27 21:49:00,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-384
+2020-05-27 21:49:01,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-383
+2020-05-27 21:49:01,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-382
+2020-05-27 21:49:02,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-381
+2020-05-27 21:49:02,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-380
+2020-05-27 21:49:03,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-379
+2020-05-27 21:49:03,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-378
+2020-05-27 21:49:04,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-377
+2020-05-27 21:49:04,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-376
+2020-05-27 21:49:05,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-375
+2020-05-27 21:49:05,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-374
+2020-05-27 21:49:06,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-373
+2020-05-27 21:49:06,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-372
+2020-05-27 21:49:07,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-371
+2020-05-27 21:49:07,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-370
+2020-05-27 21:49:08,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-369
+2020-05-27 21:49:08,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-368
+2020-05-27 21:49:09,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-367
+2020-05-27 21:49:09,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-366
+2020-05-27 21:49:10,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-365
+2020-05-27 21:49:10,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-364
+2020-05-27 21:49:11,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-363
+2020-05-27 21:49:11,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-362
+2020-05-27 21:49:12,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-361
+2020-05-27 21:49:12,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-360
+2020-05-27 21:49:13,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-359
+2020-05-27 21:49:13,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-358
+2020-05-27 21:49:14,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-357
+2020-05-27 21:49:14,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-356
+2020-05-27 21:49:15,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-355
+2020-05-27 21:49:15,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-354
+2020-05-27 21:49:16,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-353
+2020-05-27 21:49:16,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-352
+2020-05-27 21:49:17,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-351
+2020-05-27 21:49:17,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-350
+2020-05-27 21:49:18,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-349
+2020-05-27 21:49:18,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-348
+2020-05-27 21:49:19,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-347
+2020-05-27 21:49:19,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-346
+2020-05-27 21:49:20,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-345
+2020-05-27 21:49:20,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-344
+2020-05-27 21:49:21,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-343
+2020-05-27 21:49:21,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-342
+2020-05-27 21:49:22,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-341
+2020-05-27 21:49:22,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-340
+2020-05-27 21:49:23,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-339
+2020-05-27 21:49:23,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-338
+2020-05-27 21:49:24,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-337
+2020-05-27 21:49:24,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-336
+2020-05-27 21:49:25,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-335
+2020-05-27 21:49:25,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-334
+2020-05-27 21:49:26,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-333
+2020-05-27 21:49:26,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-332
+2020-05-27 21:49:27,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-331
+2020-05-27 21:49:27,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-330
+2020-05-27 21:49:28,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-329
+2020-05-27 21:49:28,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-328
+2020-05-27 21:49:29,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-327
+2020-05-27 21:49:29,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-326
+2020-05-27 21:49:30,084 INFO o.a.j.r.Summariser: summary +     32 in 00:00:30 =    1,1/s Avg: 108321 Min: 97652 Max: 119722 Err:     0 (0,00%) Active: 395 Started: 395 Finished: 0
+2020-05-27 21:49:30,085 INFO o.a.j.r.Summariser: summary =   2478 in 00:19:59 =    2,1/s Avg: 44639 Min:   980 Max: 126972 Err:     0 (0,00%)
+2020-05-27 21:49:30,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-325
+2020-05-27 21:49:30,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-324
+2020-05-27 21:49:31,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-323
+2020-05-27 21:49:31,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-322
+2020-05-27 21:49:32,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-321
+2020-05-27 21:49:32,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-320
+2020-05-27 21:49:33,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-319
+2020-05-27 21:49:33,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-318
+2020-05-27 21:49:34,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-317
+2020-05-27 21:49:34,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-316
+2020-05-27 21:49:35,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-315
+2020-05-27 21:49:35,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-314
+2020-05-27 21:49:36,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-313
+2020-05-27 21:49:36,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-312
+2020-05-27 21:49:37,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-311
+2020-05-27 21:49:37,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-310
+2020-05-27 21:49:38,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-309
+2020-05-27 21:49:38,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-308
+2020-05-27 21:49:39,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-307
+2020-05-27 21:49:39,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-306
+2020-05-27 21:49:40,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-305
+2020-05-27 21:49:40,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-304
+2020-05-27 21:49:41,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-303
+2020-05-27 21:49:41,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-302
+2020-05-27 21:49:42,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-301
+2020-05-27 21:49:42,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-300
+2020-05-27 21:49:43,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-299
+2020-05-27 21:49:43,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-298
+2020-05-27 21:49:44,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-297
+2020-05-27 21:49:44,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-296
+2020-05-27 21:49:45,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-295
+2020-05-27 21:49:45,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-294
+2020-05-27 21:49:46,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-293
+2020-05-27 21:49:46,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-292
+2020-05-27 21:49:47,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-291
+2020-05-27 21:49:47,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-290
+2020-05-27 21:49:48,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-289
+2020-05-27 21:49:48,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-288
+2020-05-27 21:49:49,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-287
+2020-05-27 21:49:49,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-286
+2020-05-27 21:49:50,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-285
+2020-05-27 21:49:50,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-284
+2020-05-27 21:49:51,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-283
+2020-05-27 21:49:51,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-282
+2020-05-27 21:49:52,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-281
+2020-05-27 21:49:52,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-280
+2020-05-27 21:49:53,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-279
+2020-05-27 21:49:53,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-278
+2020-05-27 21:49:54,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-277
+2020-05-27 21:49:54,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-276
+2020-05-27 21:49:55,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-275
+2020-05-27 21:49:55,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-274
+2020-05-27 21:49:56,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-273
+2020-05-27 21:49:56,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-272
+2020-05-27 21:49:57,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-271
+2020-05-27 21:49:57,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-270
+2020-05-27 21:49:58,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-269
+2020-05-27 21:49:58,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-268
+2020-05-27 21:49:59,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-267
+2020-05-27 21:49:59,587 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-266
+2020-05-27 21:50:00,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-265
+2020-05-27 21:50:00,134 INFO o.a.j.r.Summariser: summary +     91 in 00:00:30 =    3,0/s Avg: 119637 Min: 102981 Max: 128233 Err:     0 (0,00%) Active: 456 Started: 456 Finished: 0
+2020-05-27 21:50:00,134 INFO o.a.j.r.Summariser: summary =   2569 in 00:20:29 =    2,1/s Avg: 47296 Min:   980 Max: 128233 Err:     0 (0,00%)
+2020-05-27 21:50:00,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-264
+2020-05-27 21:50:01,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-263
+2020-05-27 21:50:01,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-262
+2020-05-27 21:50:02,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-261
+2020-05-27 21:50:02,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-260
+2020-05-27 21:50:03,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-259
+2020-05-27 21:50:03,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-258
+2020-05-27 21:50:04,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-257
+2020-05-27 21:50:04,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-256
+2020-05-27 21:50:05,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-255
+2020-05-27 21:50:05,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-254
+2020-05-27 21:50:06,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-253
+2020-05-27 21:50:06,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-252
+2020-05-27 21:50:07,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-251
+2020-05-27 21:50:07,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-250
+2020-05-27 21:50:08,087 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-249
+2020-05-27 21:50:08,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-248
+2020-05-27 21:50:09,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-247
+2020-05-27 21:50:09,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-246
+2020-05-27 21:50:10,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-245
+2020-05-27 21:50:10,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-244
+2020-05-27 21:50:11,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-243
+2020-05-27 21:50:11,586 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-242
+2020-05-27 21:50:12,086 INFO o.a.j.t.JMeterThread: Thread started: jp@gc - Ultimate Thread Group 1-241
+2020-05-27 21:50:32,041 INFO o.a.j.r.Summariser: summary +     48 in 00:00:32 =    1,5/s Avg: 109927 Min: 101692 Max: 124252 Err:     1 (2,08%) Active: 480 Started: 480 Finished: 0
+2020-05-27 21:50:32,042 INFO o.a.j.r.Summariser: summary =   2617 in 00:21:01 =    2,1/s Avg: 48444 Min:   980 Max: 128233 Err:     1 (0,04%)
+2020-05-27 21:51:00,071 INFO o.a.j.r.Summariser: summary +    103 in 00:00:28 =    3,7/s Avg: 130262 Min: 101044 Max: 139355 Err:    40 (38,83%) Active: 480 Started: 480 Finished: 0
+2020-05-27 21:51:00,072 INFO o.a.j.r.Summariser: summary =   2720 in 00:21:29 =    2,1/s Avg: 51542 Min:   980 Max: 139355 Err:    41 (1,51%)
+2020-05-27 21:51:30,669 INFO o.a.j.r.Summariser: summary +    132 in 00:00:31 =    4,3/s Avg: 130611 Min: 108983 Max: 145297 Err:    52 (39,39%) Active: 480 Started: 480 Finished: 0
+2020-05-27 21:51:30,669 INFO o.a.j.r.Summariser: summary =   2852 in 00:22:00 =    2,2/s Avg: 55202 Min:   980 Max: 145297 Err:    93 (3,26%)
+2020-05-27 21:52:00,806 INFO o.a.j.r.Summariser: summary +    102 in 00:00:30 =    3,4/s Avg: 130019 Min: 109058 Max: 168251 Err:    66 (64,71%) Active: 480 Started: 480 Finished: 0
+2020-05-27 21:52:00,806 INFO o.a.j.r.Summariser: summary =   2954 in 00:22:30 =    2,2/s Avg: 57785 Min:   980 Max: 168251 Err:   159 (5,38%)
+2020-05-27 21:52:30,158 INFO o.a.j.r.Summariser: summary +    135 in 00:00:29 =    4,6/s Avg: 132868 Min: 120464 Max: 164848 Err:    39 (28,89%) Active: 480 Started: 480 Finished: 0
+2020-05-27 21:52:30,158 INFO o.a.j.r.Summariser: summary =   3089 in 00:22:59 =    2,2/s Avg: 61067 Min:   980 Max: 168251 Err:   198 (6,41%)
+2020-05-27 21:53:00,500 INFO o.a.j.r.Summariser: summary +     57 in 00:00:30 =    1,9/s Avg: 124325 Min: 114685 Max: 194897 Err:    21 (36,84%) Active: 480 Started: 480 Finished: 0
+2020-05-27 21:53:00,501 INFO o.a.j.r.Summariser: summary =   3146 in 00:23:29 =    2,2/s Avg: 62213 Min:   980 Max: 194897 Err:   219 (6,96%)
+2020-05-27 21:53:30,360 INFO o.a.j.r.Summariser: summary +    136 in 00:00:30 =    4,6/s Avg: 133950 Min: 128460 Max: 200124 Err:    52 (38,24%) Active: 480 Started: 480 Finished: 0
+2020-05-27 21:53:30,360 INFO o.a.j.r.Summariser: summary =   3282 in 00:23:59 =    2,3/s Avg: 65186 Min:   980 Max: 200124 Err:   271 (8,26%)
+2020-05-27 21:53:32,334 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-69
+2020-05-27 21:53:32,334 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-69
+2020-05-27 21:53:32,652 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-202
+2020-05-27 21:53:32,652 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-202
+2020-05-27 21:53:33,190 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-80
+2020-05-27 21:53:33,190 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-80
+2020-05-27 21:53:33,234 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-74
+2020-05-27 21:53:33,234 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-74
+2020-05-27 21:53:33,340 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-47
+2020-05-27 21:53:33,340 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-47
+2020-05-27 21:53:33,353 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-73
+2020-05-27 21:53:33,353 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-73
+2020-05-27 21:53:33,737 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-360
+2020-05-27 21:53:33,737 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-364
+2020-05-27 21:53:33,737 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-360
+2020-05-27 21:53:33,737 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-363
+2020-05-27 21:53:33,737 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-363
+2020-05-27 21:53:33,738 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-358
+2020-05-27 21:53:33,738 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-364
+2020-05-27 21:53:33,738 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-358
+2020-05-27 21:53:33,738 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-359
+2020-05-27 21:53:33,738 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-359
+2020-05-27 21:53:33,739 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-362
+2020-05-27 21:53:33,739 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-362
+2020-05-27 21:53:33,739 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-361
+2020-05-27 21:53:33,739 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-361
+2020-05-27 21:53:33,740 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-357
+2020-05-27 21:53:33,740 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-357
+2020-05-27 21:53:35,021 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-201
+2020-05-27 21:53:35,021 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-201
+2020-05-27 21:53:35,462 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-203
+2020-05-27 21:53:35,462 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-203
+2020-05-27 21:53:35,510 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-200
+2020-05-27 21:53:35,510 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-200
+2020-05-27 21:53:35,726 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-199
+2020-05-27 21:53:35,726 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-199
+2020-05-27 21:53:35,845 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-14
+2020-05-27 21:53:35,845 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-14
+2020-05-27 21:53:36,156 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-71
+2020-05-27 21:53:36,156 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-71
+2020-05-27 21:53:36,284 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-43
+2020-05-27 21:53:36,284 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-43
+2020-05-27 21:53:36,463 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-8
+2020-05-27 21:53:36,463 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-8
+2020-05-27 21:53:36,676 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-196
+2020-05-27 21:53:36,676 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-196
+2020-05-27 21:53:37,258 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-20
+2020-05-27 21:53:37,258 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-20
+2020-05-27 21:53:37,763 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-198
+2020-05-27 21:53:37,763 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-198
+2020-05-27 21:53:37,833 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-349
+2020-05-27 21:53:37,833 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-349
+2020-05-27 21:53:37,833 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-355
+2020-05-27 21:53:37,833 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-355
+2020-05-27 21:53:37,834 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-352
+2020-05-27 21:53:37,834 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-352
+2020-05-27 21:53:37,834 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-354
+2020-05-27 21:53:37,834 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-354
+2020-05-27 21:53:37,835 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-351
+2020-05-27 21:53:37,835 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-351
+2020-05-27 21:53:37,835 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-356
+2020-05-27 21:53:37,835 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-356
+2020-05-27 21:53:37,835 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-353
+2020-05-27 21:53:37,835 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-353
+2020-05-27 21:53:37,836 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-350
+2020-05-27 21:53:37,836 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-350
+2020-05-27 21:53:37,857 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-194
+2020-05-27 21:53:37,857 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-194
+2020-05-27 21:53:38,394 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-45
+2020-05-27 21:53:38,394 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-45
+2020-05-27 21:53:38,436 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-19
+2020-05-27 21:53:38,436 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-19
+2020-05-27 21:53:38,553 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-72
+2020-05-27 21:53:38,553 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-72
+2020-05-27 21:53:38,989 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-70
+2020-05-27 21:53:38,989 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-70
+2020-05-27 21:53:39,103 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-197
+2020-05-27 21:53:39,103 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-197
+2020-05-27 21:53:39,950 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-67
+2020-05-27 21:53:39,950 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-67
+2020-05-27 21:53:40,870 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-44
+2020-05-27 21:53:40,870 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-44
+2020-05-27 21:53:40,881 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-41
+2020-05-27 21:53:40,881 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-41
+2020-05-27 21:53:40,987 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-316
+2020-05-27 21:53:40,987 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-316
+2020-05-27 21:53:41,115 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-191
+2020-05-27 21:53:41,115 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-191
+2020-05-27 21:53:41,343 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-193
+2020-05-27 21:53:41,344 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-193
+2020-05-27 21:53:41,928 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-341
+2020-05-27 21:53:41,928 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-346
+2020-05-27 21:53:41,929 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-341
+2020-05-27 21:53:41,929 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-346
+2020-05-27 21:53:41,929 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-347
+2020-05-27 21:53:41,929 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-347
+2020-05-27 21:53:41,929 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-344
+2020-05-27 21:53:41,929 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-344
+2020-05-27 21:53:41,930 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-342
+2020-05-27 21:53:41,930 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-342
+2020-05-27 21:53:41,930 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-348
+2020-05-27 21:53:41,930 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-348
+2020-05-27 21:53:41,931 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-345
+2020-05-27 21:53:41,931 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-345
+2020-05-27 21:53:41,931 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-343
+2020-05-27 21:53:41,931 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-343
+2020-05-27 21:53:41,937 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-190
+2020-05-27 21:53:41,938 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-190
+2020-05-27 21:53:42,294 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-195
+2020-05-27 21:53:42,294 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-195
+2020-05-27 21:53:44,194 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-40
+2020-05-27 21:53:44,194 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-40
+2020-05-27 21:53:44,625 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-21
+2020-05-27 21:53:44,625 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-21
+2020-05-27 21:53:45,337 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-189
+2020-05-27 21:53:45,337 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-189
+2020-05-27 21:53:45,339 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-75
+2020-05-27 21:53:45,339 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-75
+2020-05-27 21:53:46,025 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-339
+2020-05-27 21:53:46,025 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-335
+2020-05-27 21:53:46,025 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-335
+2020-05-27 21:53:46,025 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-340
+2020-05-27 21:53:46,025 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-340
+2020-05-27 21:53:46,026 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-333
+2020-05-27 21:53:46,026 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-333
+2020-05-27 21:53:46,026 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-332
+2020-05-27 21:53:46,026 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-332
+2020-05-27 21:53:46,026 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-334
+2020-05-27 21:53:46,027 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-334
+2020-05-27 21:53:46,027 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-336
+2020-05-27 21:53:46,027 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-336
+2020-05-27 21:53:46,027 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-338
+2020-05-27 21:53:46,027 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-338
+2020-05-27 21:53:46,027 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-337
+2020-05-27 21:53:46,027 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-337
+2020-05-27 21:53:46,027 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-339
+2020-05-27 21:53:46,040 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-192
+2020-05-27 21:53:46,040 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-192
+2020-05-27 21:53:46,221 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-11
+2020-05-27 21:53:46,221 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-11
+2020-05-27 21:53:46,438 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-66
+2020-05-27 21:53:46,438 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-66
+2020-05-27 21:53:48,243 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-62
+2020-05-27 21:53:48,243 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-62
+2020-05-27 21:53:48,471 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-65
+2020-05-27 21:53:48,471 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-65
+2020-05-27 21:53:49,015 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-185
+2020-05-27 21:53:49,015 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-185
+2020-05-27 21:53:49,144 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-42
+2020-05-27 21:53:49,144 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-42
+2020-05-27 21:53:49,802 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-39
+2020-05-27 21:53:49,802 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-39
+2020-05-27 21:53:50,120 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-330
+2020-05-27 21:53:50,120 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-330
+2020-05-27 21:53:50,121 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-331
+2020-05-27 21:53:50,121 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-331
+2020-05-27 21:53:50,121 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-327
+2020-05-27 21:53:50,121 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-327
+2020-05-27 21:53:50,121 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-329
+2020-05-27 21:53:50,121 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-329
+2020-05-27 21:53:50,122 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-328
+2020-05-27 21:53:50,122 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-328
+2020-05-27 21:53:50,122 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-325
+2020-05-27 21:53:50,122 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-324
+2020-05-27 21:53:50,122 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-325
+2020-05-27 21:53:50,122 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-324
+2020-05-27 21:53:50,123 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-294
+2020-05-27 21:53:50,123 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-294
+2020-05-27 21:53:54,217 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-322
+2020-05-27 21:53:54,217 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-317
+2020-05-27 21:53:54,217 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-322
+2020-05-27 21:53:54,218 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-318
+2020-05-27 21:53:54,218 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-318
+2020-05-27 21:53:54,218 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-319
+2020-05-27 21:53:54,218 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-319
+2020-05-27 21:53:54,218 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-323
+2020-05-27 21:53:54,218 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-323
+2020-05-27 21:53:54,219 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-320
+2020-05-27 21:53:54,219 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-320
+2020-05-27 21:53:54,219 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-268
+2020-05-27 21:53:54,219 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-268
+2020-05-27 21:53:54,220 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-64
+2020-05-27 21:53:54,220 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-64
+2020-05-27 21:53:54,220 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-148
+2020-05-27 21:53:54,220 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-148
+2020-05-27 21:53:54,220 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-269
+2020-05-27 21:53:54,220 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-269
+2020-05-27 21:53:54,221 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-267
+2020-05-27 21:53:54,221 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-267
+2020-05-27 21:53:54,221 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-321
+2020-05-27 21:53:54,221 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-321
+2020-05-27 21:53:54,221 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-317
+2020-05-27 21:53:54,221 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-277
+2020-05-27 21:53:54,221 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-277
+2020-05-27 21:53:54,625 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-186
+2020-05-27 21:53:54,625 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-186
+2020-05-27 21:53:56,343 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-63
+2020-05-27 21:53:56,343 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-63
+2020-05-27 21:53:58,312 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-311
+2020-05-27 21:53:58,312 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-308
+2020-05-27 21:53:58,313 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-311
+2020-05-27 21:53:58,313 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-312
+2020-05-27 21:53:58,313 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-312
+2020-05-27 21:53:58,313 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-309
+2020-05-27 21:53:58,313 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-309
+2020-05-27 21:53:58,314 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-4
+2020-05-27 21:53:58,314 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-4
+2020-05-27 21:53:58,314 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-264
+2020-05-27 21:53:58,314 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-264
+2020-05-27 21:53:58,314 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-262
+2020-05-27 21:53:58,315 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-262
+2020-05-27 21:53:58,315 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-145
+2020-05-27 21:53:58,315 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-145
+2020-05-27 21:53:58,315 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-212
+2020-05-27 21:53:58,315 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-212
+2020-05-27 21:53:58,315 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-393
+2020-05-27 21:53:58,316 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-393
+2020-05-27 21:53:58,316 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-396
+2020-05-27 21:53:58,316 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-396
+2020-05-27 21:53:58,316 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-395
+2020-05-27 21:53:58,316 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-395
+2020-05-27 21:53:58,316 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-260
+2020-05-27 21:53:58,316 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-260
+2020-05-27 21:53:58,317 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-397
+2020-05-27 21:53:58,317 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-397
+2020-05-27 21:53:58,317 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-310
+2020-05-27 21:53:58,317 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-310
+2020-05-27 21:53:58,317 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-308
+2020-05-27 21:53:58,317 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-313
+2020-05-27 21:53:58,317 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-313
+2020-05-27 21:53:58,318 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-259
+2020-05-27 21:53:58,318 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-259
+2020-05-27 21:53:58,318 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-390
+2020-05-27 21:53:58,318 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-261
+2020-05-27 21:53:58,318 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-390
+2020-05-27 21:53:58,318 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-261
+2020-05-27 21:53:58,319 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-314
+2020-05-27 21:53:58,319 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-314
+2020-05-27 21:53:59,473 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-182
+2020-05-27 21:53:59,473 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-182
+2020-05-27 21:53:59,849 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-188
+2020-05-27 21:53:59,849 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-188
+2020-05-27 21:54:00,099 INFO o.a.j.r.Summariser: summary +    127 in 00:00:30 =    4,3/s Avg: 129156 Min: 105475 Max: 172035 Err:    74 (58,27%) Active: 359 Started: 480 Finished: 121
+2020-05-27 21:54:00,100 INFO o.a.j.r.Summariser: summary =   3409 in 00:24:29 =    2,3/s Avg: 67569 Min:   980 Max: 200124 Err:   345 (10,12%)
+2020-05-27 21:54:00,100 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-68
+2020-05-27 21:54:00,100 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-68
+2020-05-27 21:54:01,150 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-184
+2020-05-27 21:54:01,150 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-184
+2020-05-27 21:54:01,301 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-187
+2020-05-27 21:54:01,301 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-187
+2020-05-27 21:54:01,869 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-5
+2020-05-27 21:54:01,869 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-5
+2020-05-27 21:54:02,408 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-306
+2020-05-27 21:54:02,408 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-301
+2020-05-27 21:54:02,408 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-306
+2020-05-27 21:54:02,409 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-379
+2020-05-27 21:54:02,409 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-379
+2020-05-27 21:54:02,409 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-303
+2020-05-27 21:54:02,409 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-303
+2020-05-27 21:54:02,409 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-305
+2020-05-27 21:54:02,409 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-305
+2020-05-27 21:54:02,410 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-304
+2020-05-27 21:54:02,410 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-304
+2020-05-27 21:54:02,410 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-301
+2020-05-27 21:54:02,410 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-300
+2020-05-27 21:54:02,410 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-300
+2020-05-27 21:54:02,410 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-307
+2020-05-27 21:54:02,411 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-307
+2020-05-27 21:54:03,482 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-38
+2020-05-27 21:54:03,482 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-38
+2020-05-27 21:54:05,481 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-180
+2020-05-27 21:54:05,481 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-180
+2020-05-27 21:54:06,505 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-282
+2020-05-27 21:54:06,505 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-297
+2020-05-27 21:54:06,505 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-282
+2020-05-27 21:54:06,505 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-291
+2020-05-27 21:54:06,505 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-291
+2020-05-27 21:54:06,506 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-296
+2020-05-27 21:54:06,506 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-296
+2020-05-27 21:54:06,506 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-293
+2020-05-27 21:54:06,506 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-293
+2020-05-27 21:54:06,506 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-297
+2020-05-27 21:54:06,506 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-292
+2020-05-27 21:54:06,507 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-292
+2020-05-27 21:54:06,507 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-299
+2020-05-27 21:54:06,507 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-299
+2020-05-27 21:54:06,508 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-295
+2020-05-27 21:54:06,508 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-295
+2020-05-27 21:54:06,508 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-298
+2020-05-27 21:54:06,508 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-298
+2020-05-27 21:54:07,133 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-61
+2020-05-27 21:54:07,133 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-61
+2020-05-27 21:54:07,665 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-35
+2020-05-27 21:54:07,665 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-35
+2020-05-27 21:54:07,844 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-34
+2020-05-27 21:54:07,844 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-34
+2020-05-27 21:54:08,295 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-178
+2020-05-27 21:54:08,295 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-178
+2020-05-27 21:54:09,181 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-16
+2020-05-27 21:54:09,181 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-16
+2020-05-27 21:54:09,682 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-17
+2020-05-27 21:54:09,682 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-17
+2020-05-27 21:54:10,346 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-179
+2020-05-27 21:54:10,346 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-179
+2020-05-27 21:54:10,551 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-173
+2020-05-27 21:54:10,551 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-173
+2020-05-27 21:54:10,600 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-284
+2020-05-27 21:54:10,600 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-284
+2020-05-27 21:54:10,601 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-286
+2020-05-27 21:54:10,601 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-286
+2020-05-27 21:54:10,601 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-285
+2020-05-27 21:54:10,601 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-285
+2020-05-27 21:54:10,602 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-290
+2020-05-27 21:54:10,602 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-290
+2020-05-27 21:54:10,602 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-283
+2020-05-27 21:54:10,602 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-283
+2020-05-27 21:54:10,603 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-288
+2020-05-27 21:54:10,603 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-288
+2020-05-27 21:54:10,603 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-289
+2020-05-27 21:54:10,603 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-289
+2020-05-27 21:54:10,603 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-287
+2020-05-27 21:54:10,603 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-287
+2020-05-27 21:54:10,712 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-175
+2020-05-27 21:54:10,712 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-175
+2020-05-27 21:54:11,367 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-183
+2020-05-27 21:54:11,368 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-183
+2020-05-27 21:54:12,031 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-174
+2020-05-27 21:54:12,031 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-174
+2020-05-27 21:54:12,679 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-181
+2020-05-27 21:54:12,679 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-181
+2020-05-27 21:54:13,054 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-36
+2020-05-27 21:54:13,054 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-36
+2020-05-27 21:54:13,235 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-37
+2020-05-27 21:54:13,236 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-37
+2020-05-27 21:54:13,576 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-176
+2020-05-27 21:54:13,576 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-176
+2020-05-27 21:54:13,621 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-169
+2020-05-27 21:54:13,621 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-169
+2020-05-27 21:54:14,210 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-177
+2020-05-27 21:54:14,211 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-177
+2020-05-27 21:54:14,696 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-279
+2020-05-27 21:54:14,696 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-279
+2020-05-27 21:54:14,697 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-280
+2020-05-27 21:54:14,697 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-280
+2020-05-27 21:54:14,697 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-278
+2020-05-27 21:54:14,697 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-278
+2020-05-27 21:54:14,698 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-275
+2020-05-27 21:54:14,698 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-275
+2020-05-27 21:54:14,698 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-281
+2020-05-27 21:54:14,698 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-281
+2020-05-27 21:54:14,698 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-276
+2020-05-27 21:54:14,698 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-276
+2020-05-27 21:54:15,859 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-166
+2020-05-27 21:54:15,859 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-166
+2020-05-27 21:54:15,946 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-33
+2020-05-27 21:54:15,946 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-33
+2020-05-27 21:54:16,420 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-167
+2020-05-27 21:54:16,420 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-167
+2020-05-27 21:54:16,477 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-172
+2020-05-27 21:54:16,477 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-172
+2020-05-27 21:54:17,160 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-170
+2020-05-27 21:54:17,160 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-170
+2020-05-27 21:54:18,506 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-18
+2020-05-27 21:54:18,507 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-18
+2020-05-27 21:54:18,793 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-31
+2020-05-27 21:54:18,793 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-270
+2020-05-27 21:54:18,793 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-31
+2020-05-27 21:54:18,793 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-273
+2020-05-27 21:54:18,793 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-273
+2020-05-27 21:54:18,793 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-270
+2020-05-27 21:54:18,793 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-274
+2020-05-27 21:54:18,794 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-274
+2020-05-27 21:54:20,137 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-161
+2020-05-27 21:54:20,137 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-161
+2020-05-27 21:54:21,024 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-159
+2020-05-27 21:54:21,024 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-159
+2020-05-27 21:54:21,266 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-171
+2020-05-27 21:54:21,266 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-171
+2020-05-27 21:54:21,659 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-224
+2020-05-27 21:54:21,659 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-224
+2020-05-27 21:54:21,747 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-162
+2020-05-27 21:54:21,747 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-162
+2020-05-27 21:54:21,824 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-272
+2020-05-27 21:54:21,824 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-272
+2020-05-27 21:54:21,995 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-165
+2020-05-27 21:54:21,995 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-165
+2020-05-27 21:54:22,198 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-168
+2020-05-27 21:54:22,198 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-168
+2020-05-27 21:54:22,225 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-158
+2020-05-27 21:54:22,225 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-158
+2020-05-27 21:54:22,744 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-156
+2020-05-27 21:54:22,745 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-156
+2020-05-27 21:54:22,888 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-478
+2020-05-27 21:54:22,888 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-478
+2020-05-27 21:54:22,916 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-163
+2020-05-27 21:54:22,916 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-163
+2020-05-27 21:54:22,947 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-150
+2020-05-27 21:54:22,947 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-150
+2020-05-27 21:54:22,961 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-157
+2020-05-27 21:54:22,961 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-157
+2020-05-27 21:54:23,916 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-153
+2020-05-27 21:54:23,916 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-153
+2020-05-27 21:54:23,960 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-164
+2020-05-27 21:54:23,961 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-164
+2020-05-27 21:54:25,266 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-154
+2020-05-27 21:54:25,266 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-154
+2020-05-27 21:54:25,396 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-2
+2020-05-27 21:54:25,397 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-2
+2020-05-27 21:54:25,585 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-32
+2020-05-27 21:54:25,585 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-32
+2020-05-27 21:54:25,824 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-120
+2020-05-27 21:54:25,824 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-120
+2020-05-27 21:54:25,880 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-149
+2020-05-27 21:54:25,880 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-149
+2020-05-27 21:54:27,067 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-29
+2020-05-27 21:54:27,067 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-29
+2020-05-27 21:54:27,273 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-151
+2020-05-27 21:54:27,273 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-151
+2020-05-27 21:54:27,460 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-155
+2020-05-27 21:54:27,460 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-155
+2020-05-27 21:54:28,035 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-160
+2020-05-27 21:54:28,035 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-160
+2020-05-27 21:54:28,084 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-147
+2020-05-27 21:54:28,084 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-147
+2020-05-27 21:54:28,124 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-263
+2020-05-27 21:54:28,124 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-263
+2020-05-27 21:54:28,648 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-152
+2020-05-27 21:54:28,648 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-152
+2020-05-27 21:54:29,159 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-480
+2020-05-27 21:54:29,159 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-480
+2020-05-27 21:54:29,279 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-117
+2020-05-27 21:54:29,279 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-117
+2020-05-27 21:54:29,343 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-476
+2020-05-27 21:54:29,343 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-476
+2020-05-27 21:54:29,441 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-477
+2020-05-27 21:54:29,441 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-477
+2020-05-27 21:54:29,693 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-472
+2020-05-27 21:54:29,693 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-472
+2020-05-27 21:54:29,915 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-479
+2020-05-27 21:54:29,915 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-479
+2020-05-27 21:54:30,165 INFO o.a.j.r.Summariser: summary +     98 in 00:00:30 =    3,3/s Avg: 132255 Min: 126233 Max: 198175 Err:    36 (36,73%) Active: 261 Started: 480 Finished: 219
+2020-05-27 21:54:30,165 INFO o.a.j.r.Summariser: summary =   3507 in 00:24:59 =    2,3/s Avg: 69376 Min:   980 Max: 200124 Err:   381 (10,86%)
+2020-05-27 21:54:30,166 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-265
+2020-05-27 21:54:30,166 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-265
+2020-05-27 21:54:30,238 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-271
+2020-05-27 21:54:30,238 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-271
+2020-05-27 21:54:30,269 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-475
+2020-05-27 21:54:30,269 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-475
+2020-05-27 21:54:31,506 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-469
+2020-05-27 21:54:31,506 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-469
+2020-05-27 21:54:32,207 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-474
+2020-05-27 21:54:32,207 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-474
+2020-05-27 21:54:33,164 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-119
+2020-05-27 21:54:33,164 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-119
+2020-05-27 21:54:33,245 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-468
+2020-05-27 21:54:33,245 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-468
+2020-05-27 21:54:33,484 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-470
+2020-05-27 21:54:33,485 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-470
+2020-05-27 21:54:33,508 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-471
+2020-05-27 21:54:33,508 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-471
+2020-05-27 21:54:33,789 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-473
+2020-05-27 21:54:33,789 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-473
+2020-05-27 21:54:34,305 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-142
+2020-05-27 21:54:34,305 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-142
+2020-05-27 21:54:34,511 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-136
+2020-05-27 21:54:34,511 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-136
+2020-05-27 21:54:34,617 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-140
+2020-05-27 21:54:34,618 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-140
+2020-05-27 21:54:34,959 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-143
+2020-05-27 21:54:34,960 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-143
+2020-05-27 21:54:35,075 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-137
+2020-05-27 21:54:35,075 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-137
+2020-05-27 21:54:35,176 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-241
+2020-05-27 21:54:35,176 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-241
+2020-05-27 21:54:35,248 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-146
+2020-05-27 21:54:35,249 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-146
+2020-05-27 21:54:35,493 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-139
+2020-05-27 21:54:35,494 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-139
+2020-05-27 21:54:35,794 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-315
+2020-05-27 21:54:35,794 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-315
+2020-05-27 21:54:35,857 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-465
+2020-05-27 21:54:35,857 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-465
+2020-05-27 21:54:35,926 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-467
+2020-05-27 21:54:35,926 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-467
+2020-05-27 21:54:36,021 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-138
+2020-05-27 21:54:36,021 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-138
+2020-05-27 21:54:36,435 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-464
+2020-05-27 21:54:36,435 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-464
+2020-05-27 21:54:36,441 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-460
+2020-05-27 21:54:36,441 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-460
+2020-05-27 21:54:36,452 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-462
+2020-05-27 21:54:36,452 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-462
+2020-05-27 21:54:36,576 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-141
+2020-05-27 21:54:36,577 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-141
+2020-05-27 21:54:37,003 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-116
+2020-05-27 21:54:37,003 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-116
+2020-05-27 21:54:37,339 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-461
+2020-05-27 21:54:37,339 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-461
+2020-05-27 21:54:37,781 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-463
+2020-05-27 21:54:37,781 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-463
+2020-05-27 21:54:37,873 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-133
+2020-05-27 21:54:37,873 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-133
+2020-05-27 21:54:39,062 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-60
+2020-05-27 21:54:39,062 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-60
+2020-05-27 21:54:39,274 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-441
+2020-05-27 21:54:39,274 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-440
+2020-05-27 21:54:39,274 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-441
+2020-05-27 21:54:39,292 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-440
+2020-05-27 21:54:39,292 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-415
+2020-05-27 21:54:39,292 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-415
+2020-05-27 21:54:39,292 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-385
+2020-05-27 21:54:39,292 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-385
+2020-05-27 21:54:39,293 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-121
+2020-05-27 21:54:39,293 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-121
+2020-05-27 21:54:39,294 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-407
+2020-05-27 21:54:39,294 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-407
+2020-05-27 21:54:39,294 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-408
+2020-05-27 21:54:39,294 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-408
+2020-05-27 21:54:39,370 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-244
+2020-05-27 21:54:39,370 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-244
+2020-05-27 21:54:39,386 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-118
+2020-05-27 21:54:39,387 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-118
+2020-05-27 21:54:39,629 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-459
+2020-05-27 21:54:39,629 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-459
+2020-05-27 21:54:39,951 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-457
+2020-05-27 21:54:39,951 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-457
+2020-05-27 21:54:40,608 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-452
+2020-05-27 21:54:40,608 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-452
+2020-05-27 21:54:40,822 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-13
+2020-05-27 21:54:40,822 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-13
+2020-05-27 21:54:40,965 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-135
+2020-05-27 21:54:40,965 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-135
+2020-05-27 21:54:41,153 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-458
+2020-05-27 21:54:41,154 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-458
+2020-05-27 21:54:41,355 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-456
+2020-05-27 21:54:41,355 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-456
+2020-05-27 21:54:41,491 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-134
+2020-05-27 21:54:41,491 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-134
+2020-05-27 21:54:41,554 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-3
+2020-05-27 21:54:41,554 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-3
+2020-05-27 21:54:42,092 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-113
+2020-05-27 21:54:42,092 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-113
+2020-05-27 21:54:42,490 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-451
+2020-05-27 21:54:42,490 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-451
+2020-05-27 21:54:43,192 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-455
+2020-05-27 21:54:43,192 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-455
+2020-05-27 21:54:43,736 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-454
+2020-05-27 21:54:43,736 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-454
+2020-05-27 21:54:43,834 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-450
+2020-05-27 21:54:43,834 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-450
+2020-05-27 21:54:43,893 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-449
+2020-05-27 21:54:43,893 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-449
+2020-05-27 21:54:45,126 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-453
+2020-05-27 21:54:45,126 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-453
+2020-05-27 21:54:45,271 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-112
+2020-05-27 21:54:45,272 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-112
+2020-05-27 21:54:45,473 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-130
+2020-05-27 21:54:45,473 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-130
+2020-05-27 21:54:45,625 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-131
+2020-05-27 21:54:45,625 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-131
+2020-05-27 21:54:45,753 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-448
+2020-05-27 21:54:45,753 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-448
+2020-05-27 21:54:46,064 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-132
+2020-05-27 21:54:46,064 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-132
+2020-05-27 21:54:46,144 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-446
+2020-05-27 21:54:46,144 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-446
+2020-05-27 21:54:46,763 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-128
+2020-05-27 21:54:46,763 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-128
+2020-05-27 21:54:47,299 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-129
+2020-05-27 21:54:47,299 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-129
+2020-05-27 21:54:47,664 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-447
+2020-05-27 21:54:47,664 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-447
+2020-05-27 21:54:47,952 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-1
+2020-05-27 21:54:47,952 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-1
+2020-05-27 21:54:48,261 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-10
+2020-05-27 21:54:48,261 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-10
+2020-05-27 21:54:48,619 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-114
+2020-05-27 21:54:48,619 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-114
+2020-05-27 21:54:48,881 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-443
+2020-05-27 21:54:48,882 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-443
+2020-05-27 21:54:49,123 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-444
+2020-05-27 21:54:49,123 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-444
+2020-05-27 21:54:49,267 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-111
+2020-05-27 21:54:49,267 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-111
+2020-05-27 21:54:49,390 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-445
+2020-05-27 21:54:49,390 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-445
+2020-05-27 21:54:50,070 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-109
+2020-05-27 21:54:50,070 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-109
+2020-05-27 21:54:50,082 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-124
+2020-05-27 21:54:50,083 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-124
+2020-05-27 21:54:50,189 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-439
+2020-05-27 21:54:50,190 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-439
+2020-05-27 21:54:50,524 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-442
+2020-05-27 21:54:50,524 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-442
+2020-05-27 21:54:51,460 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-127
+2020-05-27 21:54:51,460 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-127
+2020-05-27 21:54:51,501 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-125
+2020-05-27 21:54:51,501 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-125
+2020-05-27 21:54:51,735 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-417
+2020-05-27 21:54:51,736 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-417
+2020-05-27 21:54:52,864 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-108
+2020-05-27 21:54:52,864 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-108
+2020-05-27 21:54:54,257 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-105
+2020-05-27 21:54:54,257 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-105
+2020-05-27 21:54:54,409 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-123
+2020-05-27 21:54:54,409 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-123
+2020-05-27 21:54:54,726 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-28
+2020-05-27 21:54:54,726 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-28
+2020-05-27 21:54:55,275 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-302
+2020-05-27 21:54:55,275 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-302
+2020-05-27 21:54:55,583 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-126
+2020-05-27 21:54:55,584 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-126
+2020-05-27 21:54:56,045 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-27
+2020-05-27 21:54:56,045 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-27
+2020-05-27 21:54:56,817 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-106
+2020-05-27 21:54:56,818 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-106
+2020-05-27 21:54:58,445 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-6
+2020-05-27 21:54:58,445 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-6
+2020-05-27 21:54:58,596 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-25
+2020-05-27 21:54:58,596 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-25
+2020-05-27 21:54:58,939 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-9
+2020-05-27 21:54:58,939 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-9
+2020-05-27 21:54:59,515 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-110
+2020-05-27 21:54:59,515 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-110
+2020-05-27 21:54:59,752 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-96
+2020-05-27 21:54:59,753 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-96
+2020-05-27 21:54:59,753 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-420
+2020-05-27 21:54:59,753 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-420
+2020-05-27 21:54:59,753 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-87
+2020-05-27 21:54:59,754 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-87
+2020-05-27 21:55:00,069 INFO o.a.j.r.Summariser: summary +     94 in 00:00:30 =    3,1/s Avg: 128437 Min: 106496 Max: 142518 Err:    11 (11,70%) Active: 167 Started: 480 Finished: 313
+2020-05-27 21:55:00,069 INFO o.a.j.r.Summariser: summary =   3601 in 00:25:29 =    2,4/s Avg: 70918 Min:   980 Max: 200124 Err:   392 (10,89%)
+2020-05-27 21:55:00,069 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-122
+2020-05-27 21:55:00,069 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-122
+2020-05-27 21:55:03,848 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-58
+2020-05-27 21:55:03,849 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-58
+2020-05-27 21:55:04,466 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-57
+2020-05-27 21:55:04,467 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-57
+2020-05-27 21:55:07,836 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-104
+2020-05-27 21:55:07,836 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-104
+2020-05-27 21:55:09,109 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-100
+2020-05-27 21:55:09,109 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-100
+2020-05-27 21:55:10,160 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-101
+2020-05-27 21:55:10,160 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-101
+2020-05-27 21:55:10,555 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-426
+2020-05-27 21:55:10,555 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-426
+2020-05-27 21:55:10,618 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-59
+2020-05-27 21:55:10,618 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-59
+2020-05-27 21:55:10,744 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-103
+2020-05-27 21:55:10,744 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-103
+2020-05-27 21:55:12,301 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-240
+2020-05-27 21:55:12,301 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-240
+2020-05-27 21:55:14,342 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-238
+2020-05-27 21:55:14,342 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-238
+2020-05-27 21:55:15,732 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-30
+2020-05-27 21:55:15,732 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-30
+2020-05-27 21:55:15,944 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-234
+2020-05-27 21:55:15,945 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-234
+2020-05-27 21:55:18,173 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-235
+2020-05-27 21:55:18,173 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-235
+2020-05-27 21:55:18,388 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-99
+2020-05-27 21:55:18,388 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-99
+2020-05-27 21:55:18,625 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-97
+2020-05-27 21:55:18,625 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-97
+2020-05-27 21:55:18,643 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-438
+2020-05-27 21:55:18,643 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-438
+2020-05-27 21:55:18,913 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-237
+2020-05-27 21:55:18,913 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-237
+2020-05-27 21:55:20,591 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-228
+2020-05-27 21:55:20,592 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-228
+2020-05-27 21:55:20,972 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-428
+2020-05-27 21:55:20,973 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-428
+2020-05-27 21:55:21,611 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-231
+2020-05-27 21:55:21,611 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-231
+2020-05-27 21:55:22,137 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-236
+2020-05-27 21:55:22,138 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-236
+2020-05-27 21:55:22,408 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-15
+2020-05-27 21:55:22,408 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-15
+2020-05-27 21:55:22,508 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-239
+2020-05-27 21:55:22,508 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-239
+2020-05-27 21:55:22,988 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-413
+2020-05-27 21:55:22,988 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-413
+2020-05-27 21:55:23,716 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-230
+2020-05-27 21:55:23,716 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-230
+2020-05-27 21:55:23,745 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-26
+2020-05-27 21:55:23,745 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-26
+2020-05-27 21:55:24,297 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-55
+2020-05-27 21:55:24,297 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-55
+2020-05-27 21:55:24,411 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-49
+2020-05-27 21:55:24,411 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-49
+2020-05-27 21:55:25,332 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-54
+2020-05-27 21:55:25,332 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-54
+2020-05-27 21:55:25,786 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-98
+2020-05-27 21:55:25,787 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-98
+2020-05-27 21:55:25,879 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-229
+2020-05-27 21:55:25,879 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-229
+2020-05-27 21:55:25,922 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-12
+2020-05-27 21:55:25,922 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-12
+2020-05-27 21:55:27,848 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-94
+2020-05-27 21:55:27,849 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-94
+2020-05-27 21:55:28,102 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-232
+2020-05-27 21:55:28,102 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-232
+2020-05-27 21:55:29,540 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-7
+2020-05-27 21:55:29,540 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-7
+2020-05-27 21:55:29,976 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-225
+2020-05-27 21:55:29,976 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-225
+2020-05-27 21:55:29,985 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-95
+2020-05-27 21:55:29,985 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-95
+2020-05-27 21:55:29,990 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-53
+2020-05-27 21:55:29,990 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-53
+2020-05-27 21:55:30,077 INFO o.a.j.r.Summariser: summary +     39 in 00:00:30 =    1,3/s Avg: 129015 Min: 122402 Max: 133281 Err:     1 (2,56%) Active: 128 Started: 480 Finished: 352
+2020-05-27 21:55:30,078 INFO o.a.j.r.Summariser: summary =   3640 in 00:25:59 =    2,3/s Avg: 71541 Min:   980 Max: 200124 Err:   393 (10,80%)
+2020-05-27 21:55:30,078 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-92
+2020-05-27 21:55:30,078 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-92
+2020-05-27 21:55:30,275 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-233
+2020-05-27 21:55:30,275 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-233
+2020-05-27 21:55:31,065 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-90
+2020-05-27 21:55:31,065 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-90
+2020-05-27 21:55:31,074 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-414
+2020-05-27 21:55:31,074 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-414
+2020-05-27 21:55:31,083 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-102
+2020-05-27 21:55:31,083 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-102
+2020-05-27 21:55:31,120 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-91
+2020-05-27 21:55:31,120 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-91
+2020-05-27 21:55:31,259 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-51
+2020-05-27 21:55:31,259 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-51
+2020-05-27 21:55:31,652 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-251
+2020-05-27 21:55:31,652 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-251
+2020-05-27 21:55:31,756 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-227
+2020-05-27 21:55:31,756 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-227
+2020-05-27 21:55:32,886 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-226
+2020-05-27 21:55:32,887 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-226
+2020-05-27 21:55:33,249 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-220
+2020-05-27 21:55:33,249 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-220
+2020-05-27 21:55:33,322 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-50
+2020-05-27 21:55:33,323 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-50
+2020-05-27 21:55:33,493 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-218
+2020-05-27 21:55:33,494 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-218
+2020-05-27 21:55:33,585 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-88
+2020-05-27 21:55:33,585 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-88
+2020-05-27 21:55:33,696 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-221
+2020-05-27 21:55:33,696 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-221
+2020-05-27 21:55:33,911 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-222
+2020-05-27 21:55:33,911 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-222
+2020-05-27 21:55:34,284 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-219
+2020-05-27 21:55:34,284 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-219
+2020-05-27 21:55:34,390 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-86
+2020-05-27 21:55:34,391 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-86
+2020-05-27 21:55:34,544 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-247
+2020-05-27 21:55:34,544 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-247
+2020-05-27 21:55:34,598 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-248
+2020-05-27 21:55:34,598 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-248
+2020-05-27 21:55:34,897 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-144
+2020-05-27 21:55:34,897 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-144
+2020-05-27 21:55:35,193 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-23
+2020-05-27 21:55:35,193 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-23
+2020-05-27 21:55:35,302 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-223
+2020-05-27 21:55:35,302 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-223
+2020-05-27 21:55:35,839 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-83
+2020-05-27 21:55:35,839 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-83
+2020-05-27 21:55:35,959 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-24
+2020-05-27 21:55:35,959 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-24
+2020-05-27 21:55:36,383 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-391
+2020-05-27 21:55:36,383 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-391
+2020-05-27 21:55:36,486 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-243
+2020-05-27 21:55:36,486 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-243
+2020-05-27 21:55:36,767 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-253
+2020-05-27 21:55:36,767 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-253
+2020-05-27 21:55:36,910 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-82
+2020-05-27 21:55:36,910 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-82
+2020-05-27 21:55:37,078 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-217
+2020-05-27 21:55:37,079 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-217
+2020-05-27 21:55:37,183 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-209
+2020-05-27 21:55:37,183 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-209
+2020-05-27 21:55:37,256 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-213
+2020-05-27 21:55:37,257 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-213
+2020-05-27 21:55:37,409 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-214
+2020-05-27 21:55:37,409 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-214
+2020-05-27 21:55:37,474 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-76
+2020-05-27 21:55:37,474 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-76
+2020-05-27 21:55:37,839 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-392
+2020-05-27 21:55:37,839 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-392
+2020-05-27 21:55:38,020 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-388
+2020-05-27 21:55:38,020 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-388
+2020-05-27 21:55:38,720 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-84
+2020-05-27 21:55:38,720 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-84
+2020-05-27 21:55:38,844 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-206
+2020-05-27 21:55:38,844 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-206
+2020-05-27 21:55:39,449 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-207
+2020-05-27 21:55:39,449 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-207
+2020-05-27 21:55:39,474 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-48
+2020-05-27 21:55:39,474 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-48
+2020-05-27 21:55:39,525 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-79
+2020-05-27 21:55:39,525 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-79
+2020-05-27 21:55:40,010 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-46
+2020-05-27 21:55:40,010 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-46
+2020-05-27 21:55:40,075 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-373
+2020-05-27 21:55:40,075 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-373
+2020-05-27 21:55:40,078 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-78
+2020-05-27 21:55:40,079 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-78
+2020-05-27 21:55:40,111 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-211
+2020-05-27 21:55:40,111 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-211
+2020-05-27 21:55:40,245 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-204
+2020-05-27 21:55:40,245 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-204
+2020-05-27 21:55:40,312 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-381
+2020-05-27 21:55:40,312 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-381
+2020-05-27 21:55:40,366 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-205
+2020-05-27 21:55:40,366 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-205
+2020-05-27 21:55:40,601 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-266
+2020-05-27 21:55:40,601 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-266
+2020-05-27 21:55:40,764 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-368
+2020-05-27 21:55:40,764 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-368
+2020-05-27 21:55:40,833 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-409
+2020-05-27 21:55:40,833 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-409
+2020-05-27 21:55:40,859 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-77
+2020-05-27 21:55:40,859 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-77
+2020-05-27 21:55:40,950 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-81
+2020-05-27 21:55:40,950 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-81
+2020-05-27 21:55:41,044 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-378
+2020-05-27 21:55:41,044 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-378
+2020-05-27 21:55:41,198 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-466
+2020-05-27 21:55:41,198 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-466
+2020-05-27 21:55:41,403 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-380
+2020-05-27 21:55:41,403 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-380
+2020-05-27 21:55:41,498 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-210
+2020-05-27 21:55:41,498 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-210
+2020-05-27 21:55:41,790 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-387
+2020-05-27 21:55:41,791 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-387
+2020-05-27 21:55:41,839 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-107
+2020-05-27 21:55:41,839 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-374
+2020-05-27 21:55:41,839 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-374
+2020-05-27 21:55:41,839 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-107
+2020-05-27 21:55:41,951 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-377
+2020-05-27 21:55:41,951 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-377
+2020-05-27 21:55:41,988 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-56
+2020-05-27 21:55:41,988 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-56
+2020-05-27 21:55:42,046 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-376
+2020-05-27 21:55:42,046 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-376
+2020-05-27 21:55:42,066 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-389
+2020-05-27 21:55:42,066 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-389
+2020-05-27 21:55:42,108 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-386
+2020-05-27 21:55:42,108 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-386
+2020-05-27 21:55:42,418 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-375
+2020-05-27 21:55:42,418 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-375
+2020-05-27 21:55:42,574 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-249
+2020-05-27 21:55:42,574 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-249
+2020-05-27 21:55:42,740 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-384
+2020-05-27 21:55:42,740 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-384
+2020-05-27 21:55:42,771 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-424
+2020-05-27 21:55:42,771 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-424
+2020-05-27 21:55:43,081 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-371
+2020-05-27 21:55:43,081 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-371
+2020-05-27 21:55:43,202 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-52
+2020-05-27 21:55:43,202 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-52
+2020-05-27 21:55:43,296 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-416
+2020-05-27 21:55:43,296 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-416
+2020-05-27 21:55:43,536 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-410
+2020-05-27 21:55:43,536 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-410
+2020-05-27 21:55:43,644 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-383
+2020-05-27 21:55:43,644 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-383
+2020-05-27 21:55:43,756 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-412
+2020-05-27 21:55:43,756 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-412
+2020-05-27 21:55:43,777 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-22
+2020-05-27 21:55:43,777 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-22
+2020-05-27 21:55:43,873 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-434
+2020-05-27 21:55:43,873 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-434
+2020-05-27 21:55:43,957 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-208
+2020-05-27 21:55:43,957 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-208
+2020-05-27 21:55:43,997 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-394
+2020-05-27 21:55:43,997 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-394
+2020-05-27 21:55:44,432 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-85
+2020-05-27 21:55:44,432 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-85
+2020-05-27 21:55:44,516 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-429
+2020-05-27 21:55:44,516 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-429
+2020-05-27 21:55:44,786 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-256
+2020-05-27 21:55:44,787 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-256
+2020-05-27 21:55:44,794 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-406
+2020-05-27 21:55:44,794 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-406
+2020-05-27 21:55:44,834 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-382
+2020-05-27 21:55:44,834 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-382
+2020-05-27 21:55:44,867 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-433
+2020-05-27 21:55:44,867 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-433
+2020-05-27 21:55:45,023 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-401
+2020-05-27 21:55:45,023 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-401
+2020-05-27 21:55:45,034 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-258
+2020-05-27 21:55:45,034 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-258
+2020-05-27 21:55:45,050 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-418
+2020-05-27 21:55:45,051 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-418
+2020-05-27 21:55:45,100 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-242
+2020-05-27 21:55:45,100 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-242
+2020-05-27 21:55:45,200 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-419
+2020-05-27 21:55:45,200 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-419
+2020-05-27 21:55:45,245 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-436
+2020-05-27 21:55:45,245 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-436
+2020-05-27 21:55:45,310 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-421
+2020-05-27 21:55:45,310 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-421
+2020-05-27 21:55:45,317 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-365
+2020-05-27 21:55:45,317 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-365
+2020-05-27 21:55:45,361 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-246
+2020-05-27 21:55:45,361 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-246
+2020-05-27 21:55:45,510 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-216
+2020-05-27 21:55:45,510 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-216
+2020-05-27 21:55:45,650 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-400
+2020-05-27 21:55:45,650 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-400
+2020-05-27 21:55:45,731 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-430
+2020-05-27 21:55:45,732 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-430
+2020-05-27 21:55:45,816 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-115
+2020-05-27 21:55:45,816 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-115
+2020-05-27 21:55:45,825 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-422
+2020-05-27 21:55:45,826 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-422
+2020-05-27 21:55:45,844 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-366
+2020-05-27 21:55:45,844 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-366
+2020-05-27 21:55:45,978 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-367
+2020-05-27 21:55:45,978 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-367
+2020-05-27 21:55:45,997 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-437
+2020-05-27 21:55:45,997 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-437
+2020-05-27 21:55:46,102 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-435
+2020-05-27 21:55:46,102 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-435
+2020-05-27 21:55:46,147 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-431
+2020-05-27 21:55:46,147 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-431
+2020-05-27 21:55:46,155 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-411
+2020-05-27 21:55:46,155 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-411
+2020-05-27 21:55:46,337 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-432
+2020-05-27 21:55:46,337 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-432
+2020-05-27 21:55:46,346 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-252
+2020-05-27 21:55:46,346 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-252
+2020-05-27 21:55:46,629 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-255
+2020-05-27 21:55:46,630 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-255
+2020-05-27 21:55:46,651 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-250
+2020-05-27 21:55:46,651 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-250
+2020-05-27 21:55:46,685 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-257
+2020-05-27 21:55:46,685 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-257
+2020-05-27 21:55:46,731 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-254
+2020-05-27 21:55:46,731 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-254
+2020-05-27 21:55:46,824 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-245
+2020-05-27 21:55:46,824 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-245
+2020-05-27 21:55:46,953 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-402
+2020-05-27 21:55:46,953 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-402
+2020-05-27 21:55:47,324 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-403
+2020-05-27 21:55:47,324 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-403
+2020-05-27 21:55:47,613 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-89
+2020-05-27 21:55:47,613 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-89
+2020-05-27 21:55:47,679 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-404
+2020-05-27 21:55:47,680 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-404
+2020-05-27 21:55:47,691 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-399
+2020-05-27 21:55:47,691 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-399
+2020-05-27 21:55:47,742 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-398
+2020-05-27 21:55:47,742 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-398
+2020-05-27 21:55:47,817 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-427
+2020-05-27 21:55:47,817 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-427
+2020-05-27 21:55:47,837 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-405
+2020-05-27 21:55:47,837 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-405
+2020-05-27 21:55:47,915 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-423
+2020-05-27 21:55:47,915 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-423
+2020-05-27 21:55:47,936 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-425
+2020-05-27 21:55:47,936 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-425
+2020-05-27 21:55:48,064 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-372
+2020-05-27 21:55:48,064 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-372
+2020-05-27 21:55:48,079 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-369
+2020-05-27 21:55:48,079 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-369
+2020-05-27 21:55:48,119 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-370
+2020-05-27 21:55:48,119 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-370
+2020-05-27 21:55:48,124 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-326
+2020-05-27 21:55:48,124 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-326
+2020-05-27 21:55:48,127 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-215
+2020-05-27 21:55:48,127 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-215
+2020-05-27 21:55:48,182 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: jp@gc - Ultimate Thread Group 1-93
+2020-05-27 21:55:48,182 INFO o.a.j.t.JMeterThread: Thread finished: jp@gc - Ultimate Thread Group 1-93
+2020-05-27 21:55:48,182 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-05-27 21:55:48,187 INFO o.a.j.r.Summariser: summary +    127 in 00:00:18 =    7,0/s Avg: 152611 Min: 127311 Max: 210619 Err:     0 (0,00%) Active: 0 Started: 480 Finished: 480
+2020-05-27 21:55:48,187 INFO o.a.j.r.Summariser: summary =   3767 in 00:26:17 =    2,4/s Avg: 74274 Min:   980 Max: 210619 Err:   393 (10,43%)

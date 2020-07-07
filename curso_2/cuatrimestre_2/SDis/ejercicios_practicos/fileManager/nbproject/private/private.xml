@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/juan/NetBeansProjects/fileManager/src/fileservercliente/FileServerCliente.java</file>
+            <file>file:/home/juan/NetBeansProjects/fileManager/src/fileserver/server/RunFileServer.java</file>
+            <file>file:/home/juan/NetBeansProjects/fileManager/src/fileserver/server/FileServer.java</file>
+            <file>file:/home/juan/NetBeansProjects/fileManager/src/fileserver/client/FileServerClient.java</file>
+            <file>file:/home/juan/NetBeansProjects/fileManager/src/fileserver/client/FileReceiverImpl.java</file>
+            <file>file:/home/juan/NetBeansProjects/fileManager/src/fileserver/server/FileServerImpl.java</file>
+            <file>file:/home/juan/NetBeansProjects/fileManager/src/fileserver/client/FileReceiver.java</file>
+            <file>file:/home/juan/NetBeansProjects/fileManager/src/runfileserver/RunFileServidor.java</file>
+        </group>
+    </open-files>
+</project-private>

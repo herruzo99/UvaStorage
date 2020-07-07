@@ -1,0 +1,263 @@
+2020-05-26 05:21:06,877 INFO o.a.j.u.JMeterUtils: Setting Locale to es_ES
+2020-05-26 05:21:06,907 INFO o.a.j.u.JMeterUtils: Could not find resources for 'es_ES', using 'es'
+2020-05-26 05:21:06,909 INFO o.a.j.JMeter: Loading user properties from: /home/juaherr/Documentos/erss/practica_jmeter/jmeter/bin/user.properties
+2020-05-26 05:21:06,911 INFO o.a.j.JMeter: Loading system properties from: /home/juaherr/Documentos/erss/practica_jmeter/jmeter/bin/system.properties
+2020-05-26 05:21:06,912 INFO o.a.j.JMeter: Setting System property: THREADS=80
+2020-05-26 05:21:06,912 INFO o.a.j.JMeter: Setting System property: RAMP_UP=26
+2020-05-26 05:21:06,912 INFO o.a.j.JMeter: Setting System property: DURATION=626
+2020-05-26 05:21:06,912 INFO o.a.j.JMeter: Setting System property: PERFMON=perfResultados80.jtl
+2020-05-26 05:21:06,913 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2020-05-26 05:21:06,913 INFO o.a.j.JMeter: Version 5.2.1
+2020-05-26 05:21:06,913 INFO o.a.j.JMeter: java.version=1.8.0_242
+2020-05-26 05:21:06,914 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2020-05-26 05:21:06,914 INFO o.a.j.JMeter: os.name=Linux
+2020-05-26 05:21:06,914 INFO o.a.j.JMeter: os.arch=amd64
+2020-05-26 05:21:06,914 INFO o.a.j.JMeter: os.version=5.4.28-gentoo-eii
+2020-05-26 05:21:06,914 INFO o.a.j.JMeter: file.encoding=UTF-8
+2020-05-26 05:21:06,914 INFO o.a.j.JMeter: java.awt.headless=true
+2020-05-26 05:21:06,914 INFO o.a.j.JMeter: Max memory     =259522560
+2020-05-26 05:21:06,914 INFO o.a.j.JMeter: Available Processors =1
+2020-05-26 05:21:06,923 INFO o.a.j.JMeter: Default Locale=español (España)
+2020-05-26 05:21:06,923 INFO o.a.j.JMeter: JMeter  Locale=español (España)
+2020-05-26 05:21:06,923 INFO o.a.j.JMeter: JMeterHome=/home/juaherr/Documentos/erss/practica_jmeter/jmeter
+2020-05-26 05:21:06,923 INFO o.a.j.JMeter: user.dir  =/home/juaherr/Documentos/erss/practica_jmeter/practica3/noche
+2020-05-26 05:21:06,923 INFO o.a.j.JMeter: PWD       =/home/juaherr/Documentos/erss/practica_jmeter/practica3/noche
+2020-05-26 05:21:06,924 INFO o.a.j.JMeter: IP: 157.88.125.192 Name: jair.lab.inf.uva.es FullName: jair.lab.inf.uva.es
+2020-05-26 05:21:06,929 INFO o.a.j.s.FileServer: Default base='/home/juaherr/Documentos/erss/practica_jmeter/practica3/noche'
+2020-05-26 05:21:06,934 INFO o.a.j.s.FileServer: Set new base='/home/juaherr/Documentos/erss/practica_jmeter/practica3/noche'
+2020-05-26 05:21:07,111 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-05-26 05:21:07,128 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-05-26 05:21:07,137 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2020-05-26 05:21:07,145 INFO o.a.j.s.SaveService: Loading file: modificar_stock.jmx
+2020-05-26 05:21:07,191 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2020-05-26 05:21:07,215 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-26 05:21:07,215 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-26 05:21:07,215 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-26 05:21:07,215 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-26 05:21:07,215 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-05-26 05:21:07,215 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-05-26 05:21:07,289 INFO o.a.j.JMeter: Creating summariser <summary>
+2020-05-26 05:21:07,298 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-05-26 05:21:07,299 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-05-26 05:21:07,299 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-05-26 05:21:07,304 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-05-26 05:21:07,304 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2020-05-26 05:21:07,818 INFO o.a.j.JMeter: Test lanzado (1590463267818)
+2020-05-26 05:21:07,849 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Grupo de Hilos
+2020-05-26 05:21:07,849 INFO o.a.j.e.StandardJMeterEngine: Starting 80 threads for group Grupo de Hilos.
+2020-05-26 05:21:07,849 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-05-26 05:21:07,850 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=80 ramp-up=26 delayedStart=false
+2020-05-26 05:21:07,867 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-05-26 05:21:07,868 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-05-26 05:21:07,868 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-05-26 05:21:07,868 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-05-26 05:21:07,879 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-1
+2020-05-26 05:21:08,110 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2020-05-26 05:21:08,111 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-05-26 05:21:08,208 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-2
+2020-05-26 05:21:08,529 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-3
+2020-05-26 05:21:08,848 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-4
+2020-05-26 05:21:09,172 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-5
+2020-05-26 05:21:09,495 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-6
+2020-05-26 05:21:09,819 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-7
+2020-05-26 05:21:09,918 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = jair.lab.inf.uva.es
+2020-05-26 05:21:09,925 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2020-05-26 05:21:10,145 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-8
+2020-05-26 05:21:10,457 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-9
+2020-05-26 05:21:10,786 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-10
+2020-05-26 05:21:11,124 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-11
+2020-05-26 05:21:11,434 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-12
+2020-05-26 05:21:11,762 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-13
+2020-05-26 05:21:12,092 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-14
+2020-05-26 05:21:12,409 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-15
+2020-05-26 05:21:12,732 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-16
+2020-05-26 05:21:13,057 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-17
+2020-05-26 05:21:13,379 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-18
+2020-05-26 05:21:13,713 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-19
+2020-05-26 05:21:14,038 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-20
+2020-05-26 05:21:14,355 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-21
+2020-05-26 05:21:14,680 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-22
+2020-05-26 05:21:15,005 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-23
+2020-05-26 05:21:15,329 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-24
+2020-05-26 05:21:15,653 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-25
+2020-05-26 05:21:15,978 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-26
+2020-05-26 05:21:16,303 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-27
+2020-05-26 05:21:16,628 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-28
+2020-05-26 05:21:16,953 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-29
+2020-05-26 05:21:17,278 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-30
+2020-05-26 05:21:17,603 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-31
+2020-05-26 05:21:17,931 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-32
+2020-05-26 05:21:18,251 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-33
+2020-05-26 05:21:18,578 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-34
+2020-05-26 05:21:18,903 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-35
+2020-05-26 05:21:19,228 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-36
+2020-05-26 05:21:19,554 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-37
+2020-05-26 05:21:19,879 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-38
+2020-05-26 05:21:20,210 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-39
+2020-05-26 05:21:20,528 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-40
+2020-05-26 05:21:20,853 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-41
+2020-05-26 05:21:21,177 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-42
+2020-05-26 05:21:21,587 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-43
+2020-05-26 05:21:21,828 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-44
+2020-05-26 05:21:22,153 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-45
+2020-05-26 05:21:22,489 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-46
+2020-05-26 05:21:22,819 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-47
+2020-05-26 05:21:23,128 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-48
+2020-05-26 05:21:23,452 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-49
+2020-05-26 05:21:23,777 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-50
+2020-05-26 05:21:24,197 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-51
+2020-05-26 05:21:24,430 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-52
+2020-05-26 05:21:24,753 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-53
+2020-05-26 05:21:25,077 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-54
+2020-05-26 05:21:25,402 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-55
+2020-05-26 05:21:25,727 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-56
+2020-05-26 05:21:26,052 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-57
+2020-05-26 05:21:26,377 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-58
+2020-05-26 05:21:26,703 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-59
+2020-05-26 05:21:27,098 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-60
+2020-05-26 05:21:27,356 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-61
+2020-05-26 05:21:27,679 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-62
+2020-05-26 05:21:28,004 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-63
+2020-05-26 05:21:28,328 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-64
+2020-05-26 05:21:28,653 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-65
+2020-05-26 05:21:28,976 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-66
+2020-05-26 05:21:29,301 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-67
+2020-05-26 05:21:29,627 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-68
+2020-05-26 05:21:29,952 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-69
+2020-05-26 05:21:30,017 INFO o.a.j.r.Summariser: summary +    339 in 00:00:22 =   15,3/s Avg:    33 Min:     5 Max:   266 Err:     0 (0,00%) Active: 69 Started: 69 Finished: 0
+2020-05-26 05:21:30,277 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-70
+2020-05-26 05:21:30,602 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-71
+2020-05-26 05:21:30,927 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-72
+2020-05-26 05:21:31,256 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-73
+2020-05-26 05:21:31,644 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-74
+2020-05-26 05:21:31,963 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-75
+2020-05-26 05:21:32,229 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-76
+2020-05-26 05:21:32,552 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-77
+2020-05-26 05:21:32,877 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-78
+2020-05-26 05:21:33,209 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-79
+2020-05-26 05:21:33,528 INFO o.a.j.t.JMeterThread: Thread started: Grupo de Hilos 1-80
+2020-05-26 05:22:00,089 INFO o.a.j.r.Summariser: summary +   1165 in 00:00:30 =   38,7/s Avg:    34 Min:     4 Max:   230 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:22:00,090 INFO o.a.j.r.Summariser: summary =   1504 in 00:00:52 =   28,8/s Avg:    33 Min:     4 Max:   266 Err:     0 (0,00%)
+2020-05-26 05:22:30,009 INFO o.a.j.r.Summariser: summary +   1169 in 00:00:30 =   39,1/s Avg:    45 Min:     4 Max:   497 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:22:30,009 INFO o.a.j.r.Summariser: summary =   2673 in 00:01:22 =   32,5/s Avg:    39 Min:     4 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:23:00,223 INFO o.a.j.r.Summariser: summary +   1187 in 00:00:30 =   39,3/s Avg:    39 Min:     4 Max:   257 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:23:00,224 INFO o.a.j.r.Summariser: summary =   3860 in 00:01:52 =   34,3/s Avg:    39 Min:     4 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:23:30,017 INFO o.a.j.r.Summariser: summary +   1173 in 00:00:30 =   39,4/s Avg:    31 Min:     4 Max:   307 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:23:30,018 INFO o.a.j.r.Summariser: summary =   5033 in 00:02:22 =   35,4/s Avg:    37 Min:     4 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:24:00,026 INFO o.a.j.r.Summariser: summary +   1179 in 00:00:30 =   39,3/s Avg:    30 Min:     4 Max:   219 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:24:00,026 INFO o.a.j.r.Summariser: summary =   6212 in 00:02:52 =   36,1/s Avg:    36 Min:     4 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:24:30,029 INFO o.a.j.r.Summariser: summary +   1192 in 00:00:30 =   39,7/s Avg:    30 Min:     4 Max:   219 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:24:30,029 INFO o.a.j.r.Summariser: summary =   7404 in 00:03:22 =   36,6/s Avg:    35 Min:     4 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:25:00,008 INFO o.a.j.r.Summariser: summary +   1173 in 00:00:30 =   39,1/s Avg:    30 Min:     4 Max:   275 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:25:00,009 INFO o.a.j.r.Summariser: summary =   8577 in 00:03:52 =   36,9/s Avg:    34 Min:     4 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:25:30,013 INFO o.a.j.r.Summariser: summary +   1177 in 00:00:30 =   39,2/s Avg:    34 Min:     4 Max:   321 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:25:30,014 INFO o.a.j.r.Summariser: summary =   9754 in 00:04:22 =   37,2/s Avg:    34 Min:     4 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:26:00,011 INFO o.a.j.r.Summariser: summary +   1181 in 00:00:30 =   39,4/s Avg:    36 Min:     4 Max:   420 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:26:00,013 INFO o.a.j.r.Summariser: summary =  10935 in 00:04:52 =   37,4/s Avg:    34 Min:     4 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:26:30,022 INFO o.a.j.r.Summariser: summary +   1178 in 00:00:30 =   39,3/s Avg:    30 Min:     3 Max:   237 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:26:30,023 INFO o.a.j.r.Summariser: summary =  12113 in 00:05:22 =   37,6/s Avg:    34 Min:     3 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:27:00,059 INFO o.a.j.r.Summariser: summary +   1186 in 00:00:30 =   39,5/s Avg:    28 Min:     4 Max:   249 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:27:00,059 INFO o.a.j.r.Summariser: summary =  13299 in 00:05:52 =   37,8/s Avg:    33 Min:     3 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:27:30,075 INFO o.a.j.r.Summariser: summary +   1185 in 00:00:30 =   39,5/s Avg:    28 Min:     4 Max:   241 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:27:30,075 INFO o.a.j.r.Summariser: summary =  14484 in 00:06:22 =   37,9/s Avg:    33 Min:     3 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:28:00,064 INFO o.a.j.r.Summariser: summary +   1179 in 00:00:30 =   39,3/s Avg:    28 Min:     4 Max:   196 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:28:00,065 INFO o.a.j.r.Summariser: summary =  15663 in 00:06:52 =   38,0/s Avg:    33 Min:     3 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:28:30,001 INFO o.a.j.r.Summariser: summary +   1182 in 00:00:30 =   39,5/s Avg:    27 Min:     4 Max:   197 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:28:30,001 INFO o.a.j.r.Summariser: summary =  16845 in 00:07:22 =   38,1/s Avg:    32 Min:     3 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:29:00,059 INFO o.a.j.r.Summariser: summary +   1187 in 00:00:30 =   39,5/s Avg:    27 Min:     4 Max:   204 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:29:00,060 INFO o.a.j.r.Summariser: summary =  18032 in 00:07:52 =   38,2/s Avg:    32 Min:     3 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:29:30,004 INFO o.a.j.r.Summariser: summary +   1184 in 00:00:30 =   39,5/s Avg:    27 Min:     4 Max:   258 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:29:30,004 INFO o.a.j.r.Summariser: summary =  19216 in 00:08:22 =   38,3/s Avg:    32 Min:     3 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:30:00,101 INFO o.a.j.r.Summariser: summary +   1174 in 00:00:30 =   39,0/s Avg:    42 Min:     4 Max:   374 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:30:00,101 INFO o.a.j.r.Summariser: summary =  20390 in 00:08:52 =   38,3/s Avg:    32 Min:     3 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:30:30,050 INFO o.a.j.r.Summariser: summary +   1178 in 00:00:30 =   39,3/s Avg:    33 Min:     4 Max:   239 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:30:30,051 INFO o.a.j.r.Summariser: summary =  21568 in 00:09:22 =   38,4/s Avg:    32 Min:     3 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:31:00,041 INFO o.a.j.r.Summariser: summary +   1178 in 00:00:30 =   39,3/s Avg:    33 Min:     3 Max:   251 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:31:00,041 INFO o.a.j.r.Summariser: summary =  22746 in 00:09:52 =   38,4/s Avg:    32 Min:     3 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:31:30,043 INFO o.a.j.r.Summariser: summary +   1184 in 00:00:30 =   39,5/s Avg:    32 Min:     4 Max:   321 Err:     0 (0,00%) Active: 80 Started: 80 Finished: 0
+2020-05-26 05:31:30,043 INFO o.a.j.r.Summariser: summary =  23930 in 00:10:22 =   38,5/s Avg:    32 Min:     3 Max:   497 Err:     0 (0,00%)
+2020-05-26 05:31:31,908 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-3
+2020-05-26 05:31:31,919 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-14
+2020-05-26 05:31:32,061 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-27
+2020-05-26 05:31:32,071 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-63
+2020-05-26 05:31:32,093 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-11
+2020-05-26 05:31:32,160 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-68
+2020-05-26 05:31:32,171 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-58
+2020-05-26 05:31:32,193 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-1
+2020-05-26 05:31:32,232 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-40
+2020-05-26 05:31:32,237 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-38
+2020-05-26 05:31:32,260 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-21
+2020-05-26 05:31:32,266 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-37
+2020-05-26 05:31:32,272 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-22
+2020-05-26 05:31:32,499 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-54
+2020-05-26 05:31:32,574 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-26
+2020-05-26 05:31:32,575 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-46
+2020-05-26 05:31:32,601 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-41
+2020-05-26 05:31:32,635 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-5
+2020-05-26 05:31:32,641 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-33
+2020-05-26 05:31:32,678 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-12
+2020-05-26 05:31:32,680 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-36
+2020-05-26 05:31:32,706 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-15
+2020-05-26 05:31:32,708 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-8
+2020-05-26 05:31:32,711 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-17
+2020-05-26 05:31:32,715 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-59
+2020-05-26 05:31:32,722 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-65
+2020-05-26 05:31:32,763 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-6
+2020-05-26 05:31:32,800 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-49
+2020-05-26 05:31:32,809 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-52
+2020-05-26 05:31:32,927 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-24
+2020-05-26 05:31:32,931 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-60
+2020-05-26 05:31:32,976 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-73
+2020-05-26 05:31:32,986 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-23
+2020-05-26 05:31:32,990 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-28
+2020-05-26 05:31:33,005 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-43
+2020-05-26 05:31:33,007 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-47
+2020-05-26 05:31:33,024 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-42
+2020-05-26 05:31:33,043 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-34
+2020-05-26 05:31:33,095 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-2
+2020-05-26 05:31:33,147 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-56
+2020-05-26 05:31:33,152 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-50
+2020-05-26 05:31:33,158 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-61
+2020-05-26 05:31:33,251 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-35
+2020-05-26 05:31:33,263 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-76
+2020-05-26 05:31:33,274 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-74
+2020-05-26 05:31:33,277 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-31
+2020-05-26 05:31:33,298 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-25
+2020-05-26 05:31:33,306 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-55
+2020-05-26 05:31:33,309 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-62
+2020-05-26 05:31:33,320 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-32
+2020-05-26 05:31:33,321 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-29
+2020-05-26 05:31:33,359 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-77
+2020-05-26 05:31:33,372 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-48
+2020-05-26 05:31:33,389 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-20
+2020-05-26 05:31:33,411 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-70
+2020-05-26 05:31:33,433 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-16
+2020-05-26 05:31:33,450 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-18
+2020-05-26 05:31:33,465 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-44
+2020-05-26 05:31:33,473 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-69
+2020-05-26 05:31:33,501 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-7
+2020-05-26 05:31:33,526 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-72
+2020-05-26 05:31:33,534 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-4
+2020-05-26 05:31:33,538 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-67
+2020-05-26 05:31:33,541 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-78
+2020-05-26 05:31:33,612 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-13
+2020-05-26 05:31:33,658 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-19
+2020-05-26 05:31:33,659 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-9
+2020-05-26 05:31:33,668 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-80
+2020-05-26 05:31:33,721 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-30
+2020-05-26 05:31:33,761 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-79
+2020-05-26 05:31:33,773 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-10
+2020-05-26 05:31:33,774 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-71
+2020-05-26 05:31:33,882 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-53
+2020-05-26 05:31:33,898 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-57
+2020-05-26 05:31:33,906 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-64
+2020-05-26 05:31:33,917 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-75
+2020-05-26 05:31:33,931 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-39
+2020-05-26 05:31:33,954 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-66
+2020-05-26 05:31:34,015 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo de Hilos 1-51
+2020-05-26 05:31:34,015 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-51
+2020-05-26 05:31:34,033 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo de Hilos 1-45
+2020-05-26 05:31:34,033 INFO o.a.j.t.JMeterThread: Thread finished: Grupo de Hilos 1-45
+2020-05-26 05:31:34,034 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-05-26 05:31:34,037 INFO o.a.j.r.Summariser: summary +    157 in 00:00:04 =   39,3/s Avg:    30 Min:     4 Max:   153 Err:     0 (0,00%) Active: 0 Started: 80 Finished: 80
+2020-05-26 05:31:34,037 INFO o.a.j.r.Summariser: summary =  24087 in 00:10:26 =   38,5/s Avg:    32 Min:     3 Max:   497 Err:     0 (0,00%)

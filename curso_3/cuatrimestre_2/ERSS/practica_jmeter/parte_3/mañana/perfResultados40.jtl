@@ -1,0 +1,2445 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1590398554227,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398554229,80,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398554229,21331,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398554229,140,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398555229,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398555229,0,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398555229,21330,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398555229,502,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398556230,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398556230,995,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398556230,21330,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398556230,1492,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398557231,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398557231,1000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398557231,21177,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398557231,2500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398558232,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398558232,1507,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398558232,21201,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398558232,2010,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398559232,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398559232,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398559232,21412,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398559233,3500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398560233,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398560233,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398560233,21810,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398560233,4040,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398561234,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398561234,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398561234,22384,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398561234,5000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398562234,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398562234,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398562235,22870,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398562235,9950,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398563238,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398563238,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398563238,23401,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398563238,10500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398564238,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398564238,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398564238,23826,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398564239,11000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398565239,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398565239,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398565239,24353,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398565239,12690,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398566303,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398566303,6060,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398566303,25267,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398566303,10101,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398567303,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398567304,3092,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398567304,25375,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398567304,10309,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398568304,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398568304,4477,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398568304,25861,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398568304,14427,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398569305,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398569305,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398569305,26618,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398569305,17500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398570305,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398570305,6060,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398570305,27669,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398570305,16666,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398571306,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398571306,3553,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398571306,27860,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398571306,13705,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398572306,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398572306,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398572306,27884,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398572307,16080,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398573307,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398573307,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398573307,28288,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398573307,16000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398574307,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398574307,4568,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398574307,28248,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398574307,15736,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398575308,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398575308,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398575308,28192,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398575308,14070,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398576308,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398576308,2955,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398576308,27874,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398576308,12807,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398577309,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398577309,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398577309,27587,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398577309,12060,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398578309,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398578309,3465,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398578309,27637,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398578309,12871,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398579310,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398579310,3589,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398579310,27793,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398579310,13846,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398580311,4452,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398580311,2051,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398580311,27905,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398580311,13333,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398581311,596,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398581311,3980,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398581311,27737,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398581312,11442,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398582312,60,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398582312,4522,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398582312,27467,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398582312,7035,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398583312,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398583313,2551,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398583313,27200,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398583313,6632,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398584313,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398584313,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398584313,27303,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398584313,12562,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398585314,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398585314,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398585314,27576,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398585314,13567,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398586314,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398586314,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398586314,27905,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398586314,12626,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398587315,8,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398587315,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398587315,27911,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398587315,11111,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398588315,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398588315,2439,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398588316,27874,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398588316,13658,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398589316,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398589316,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398589316,27968,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398589316,14070,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398590316,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398590316,1990,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398590316,27925,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398590316,11940,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398591317,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398591317,5025,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398591317,28395,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398591317,18592,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398592317,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398592317,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398592317,28673,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398592317,14925,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398593318,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398593318,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398593318,28597,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398593318,15577,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398594318,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398594318,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398594318,28600,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398594318,15000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398595319,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398595319,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398595319,28659,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398595319,17085,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398596319,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398596319,2955,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398596319,28606,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398596319,14285,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398597320,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398597320,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398597320,28645,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398597320,15577,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398598321,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398598321,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398598321,28250,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398598321,10447,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398599321,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398599321,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398599321,28072,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398599321,13500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398600322,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398600322,2020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398600322,28029,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398600322,9090,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398601322,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398601323,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398601323,28032,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398601323,14499,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398602323,2120,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398602323,4081,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398602323,28029,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398602323,11734,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398603324,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398603324,3535,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398603324,27992,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398603324,15151,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398604324,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398604324,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398604324,27726,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398604324,8955,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398605325,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398605325,4060,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398605325,27407,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398605325,7614,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398606325,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398606325,2020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398606325,27413,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398606325,6060,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398607326,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398607326,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398607326,27680,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398607326,12000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398608326,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398608326,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398608326,28036,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398608326,14572,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398609327,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398609327,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398609327,28120,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398609327,8585,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398610327,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398610327,2020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398610327,28122,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398610327,14141,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398611328,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398611328,1005,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398611328,28116,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398611328,11055,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398612328,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398612328,3448,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398612328,28002,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398612328,11822,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398613329,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398613329,3553,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398613329,28226,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398613329,17258,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398614330,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398614330,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398614330,28540,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398614330,18686,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398615337,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398615337,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398615337,28711,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398615337,19095,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398616337,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398616337,3960,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398616337,28709,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398616337,15346,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398617338,224,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398617338,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398617338,28604,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398617338,19095,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398618339,116,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398618339,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398618339,28545,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398618339,13930,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398619339,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398619339,4433,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398619339,28512,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398619339,20197,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398620340,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398620340,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398620340,28379,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398620340,9595,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398621340,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398621340,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398621340,28062,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398621340,12562,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398622341,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398622341,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398622341,28008,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398622341,14572,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398623341,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398623342,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398623342,28104,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398623342,15075,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398624342,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398624342,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398624342,28002,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398624342,16915,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398625342,2672,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398625342,4545,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398625342,28038,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398625342,16161,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398626343,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398626343,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398626343,27775,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398626343,8080,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398627343,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398627343,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398627343,27499,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398627343,9045,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398628344,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398628344,2010,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398628344,27411,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398628344,7035,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398629344,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398629344,4522,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398629344,27678,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398629344,14070,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398630345,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398630345,2538,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398630345,27947,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398630345,11167,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398631345,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398631345,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398631345,28131,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398631345,12060,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398632346,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398632346,1515,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398632346,28090,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398632346,10101,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398633346,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398633346,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398633346,28074,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398633346,12121,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398634346,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398634347,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398634347,28010,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398634347,10552,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398635347,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398635347,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398635347,28300,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398635347,16000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398636347,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398636347,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398636347,28578,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398636347,17676,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398637348,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398637348,1507,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398637348,28626,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398637348,14572,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398638348,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398638348,3448,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398638348,28741,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398638348,22660,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398639349,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398639349,3482,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398639349,28575,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398639349,14427,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398640349,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398640349,1530,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398640349,28521,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398640349,13775,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398641350,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398641350,3482,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398641350,28715,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398641350,20895,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398642350,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398642350,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398642350,28393,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398642350,10606,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398643351,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398643351,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398643351,28030,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398643351,12121,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398644351,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398644351,3940,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398644351,28021,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398644351,11822,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398645352,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398645352,3553,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398645352,27975,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398645352,14720,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398646352,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398646352,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398646352,28027,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398646352,12121,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398647353,2724,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398647353,3553,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398647353,28209,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398647353,14720,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398648353,40,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398648353,4878,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398648354,27919,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398648354,9756,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398649354,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398649354,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398649354,27604,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398649354,7614,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398650355,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398650355,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398650355,27416,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398650355,8040,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398651355,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398651355,3465,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398651355,27513,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398651355,9900,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398652356,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398652356,3482,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398652356,27778,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398652356,12935,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398653356,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398653356,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398653356,28065,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398653356,12182,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398654356,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398654356,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398654356,28128,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398654356,13500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398655357,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398655357,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398655357,28014,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398655357,9547,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398656357,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398656357,2010,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398656357,27973,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398656357,12060,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398657358,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398657358,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398657358,28158,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398657358,13500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398658358,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398658358,3431,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398658358,28388,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398658358,19607,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398659358,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398659358,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398659358,28566,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398659358,14427,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398660359,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398660359,3535,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398660359,28726,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398660359,20202,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398661359,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398661359,1530,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398661359,28443,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398661359,11224,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398662360,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398662360,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398662360,28615,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398662360,22500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398663361,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398663361,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398663361,28747,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398663361,16243,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398664361,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398664361,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398664361,28579,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398664361,15422,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398665361,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398665361,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398665361,28296,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398665361,9595,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398666362,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398666362,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398666362,27996,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398666362,12060,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398667362,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398667362,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398667362,27934,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398667362,7500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398668362,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398668362,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398668362,28139,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398668362,18500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398669363,452,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398669363,3076,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398669363,28047,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398669363,10256,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398670363,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398670363,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398670363,27968,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398670363,13065,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398671363,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398671364,2475,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398671364,27687,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398671364,8415,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398672364,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398672364,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398672364,27420,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398672364,12000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398673364,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398673364,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398673364,27510,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398673364,8542,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398674365,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398674365,3465,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398674365,27803,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398674365,15346,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398675371,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398675371,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398675371,28051,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398675371,11616,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398676371,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398676371,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398676371,28050,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398676371,11167,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398677372,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398677372,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398677372,28019,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398677372,9950,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398678372,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398678372,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398678372,28108,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398678372,14572,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398679372,104,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398679372,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398679372,28129,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398679372,9452,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398680373,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398680373,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398680373,28302,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398680373,18090,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398681374,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398681374,4081,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398681374,28662,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398681374,16326,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398682377,12,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398682377,3589,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398682377,28847,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398682377,18461,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398683377,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398683377,3465,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398683377,28668,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398683377,13861,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398684378,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398684378,4455,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398684378,28707,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398684378,19306,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398685378,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398685378,4545,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398685378,28638,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398685378,13636,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398686379,76,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398686379,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398686379,28484,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398686379,14499,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398687379,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398687379,1507,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398687379,28328,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398687379,11055,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398688379,8,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398688379,3535,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398688379,28107,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398688379,13131,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398689380,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398689380,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398689380,27954,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398689380,8585,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398690380,8,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398690380,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398690380,27938,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398690380,14499,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398691381,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398691381,4040,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398691381,28093,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398691381,14141,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398692381,2080,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398692381,2030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398692381,28096,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398692381,11167,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398693382,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398693382,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398693382,27794,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398693382,7537,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398694382,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398694382,1500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398694382,27537,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398694382,8000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398695382,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398695382,2538,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398695382,27443,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398695382,7614,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398696383,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398696383,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398696383,27533,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398696383,8457,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398697383,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398697383,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398697383,27950,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398697384,16080,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398698384,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398698384,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398698384,28101,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398698384,8955,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398699385,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398699385,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398699385,28110,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398699385,12562,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398700385,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398700386,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398700386,28125,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398700386,8585,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398701386,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398701386,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398701386,28063,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398701386,11055,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398702387,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398702387,1492,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398702387,28123,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398702387,9950,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398703387,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398703387,3980,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398703387,28620,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398703387,23880,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398704388,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398704388,2020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398704388,28625,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398704388,11111,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398705388,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398705388,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398705388,28677,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398705388,20500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398706389,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398706389,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398706389,28595,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398706389,12935,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398707389,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398707389,4477,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398707390,28480,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398707390,20398,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398708390,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398708390,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398708390,28603,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398708390,12500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398709390,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398709390,5500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398709390,28367,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398709390,25000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398710391,208,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398710391,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398710391,28144,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398710391,7500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398711391,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398711391,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398711391,28049,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398711391,14070,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398712391,8,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398712391,2538,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398712391,27961,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398712391,8121,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398713392,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398713392,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398713392,28151,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398713392,15500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398714392,4124,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398714392,4522,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398714392,28155,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398714392,11055,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398715392,56,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398715392,4975,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398715392,27978,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398715392,8457,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398716393,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398716393,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398716393,27610,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398716393,8500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398717393,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398717393,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398717393,27435,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398717393,7537,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398718394,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398718394,2970,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398718394,27521,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398718394,9900,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398719394,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398719394,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398719394,27794,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398719394,13000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398720394,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398720394,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398720395,28061,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398720395,13000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398721439,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398721439,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398721439,28238,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398721439,14499,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398722439,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398722439,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398722439,28154,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398722439,11557,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398723439,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398723439,2955,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398723439,28065,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398723439,9359,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398724440,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398724440,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398724440,28113,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398724440,11616,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398725440,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398725440,4522,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398725440,28347,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398725440,17587,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398726440,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398726440,4477,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398726440,28730,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398726440,15422,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398727441,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398727441,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398727441,28759,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398727441,14499,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398728442,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398728442,1970,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398728442,28671,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398728442,17241,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398729442,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398729442,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398729442,28515,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398729442,13636,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398730442,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398730442,4522,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398730442,28612,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398730442,20100,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398731443,52,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398731443,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398731443,28453,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398731443,14499,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398732443,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398732443,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398732443,28229,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398732443,10447,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398733443,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398733443,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398733443,28088,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398733443,15000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398734444,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398734444,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398734444,28032,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398734444,8040,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398735444,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398735444,3076,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398735444,27988,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398735444,16923,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398736445,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398736445,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398736445,28119,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398736445,11940,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398737445,2424,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398737445,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398737445,27944,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398737445,14070,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398738446,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398738446,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398738446,27680,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398738446,7462,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398739446,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398739446,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398739446,27450,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398739446,9452,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398740447,136,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398740447,2538,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398740447,27539,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398740447,6091,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398741447,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398741447,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398741447,27805,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398741447,13000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398742447,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398742447,3482,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398742447,28059,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398742447,9950,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398743448,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398743448,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398743448,28164,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398743448,16080,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398744448,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398744448,1515,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398744448,28069,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398744448,8080,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398745448,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398745448,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398745448,28069,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398745448,17587,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398746449,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398746449,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398746449,28119,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398746449,8121,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398747449,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398747449,4950,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398747449,28376,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398747449,20792,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398748450,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398748450,1530,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398748450,28717,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398748450,12244,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398749450,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398749450,4455,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398749450,28866,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398749450,23267,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398750450,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398750450,1990,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398750450,28583,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398750450,8955,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398751451,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398751451,5970,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398751451,28654,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398751451,21393,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398752451,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398752451,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398752451,28598,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398752451,16000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398753452,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398753452,6000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398753452,28467,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398753452,15500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398754452,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398754452,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398754452,28373,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398754452,10945,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398755452,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398755452,3535,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398755452,28245,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398755452,12121,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398756453,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398756453,3061,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398756453,27948,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398756453,8673,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398757453,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398757453,2020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398757453,28033,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398757453,8585,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398758454,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398758454,4950,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398758454,28037,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398758454,19306,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398759454,2760,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398759454,3482,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398759454,28038,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398759454,7960,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398760455,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398760455,3589,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398760455,27730,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398760455,9743,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398761455,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398761455,502,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398761455,27560,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398761455,7537,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398762456,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398762456,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398762456,27596,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398762456,10500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398763456,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398763456,1000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398763456,27711,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398763456,10000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398764456,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398764456,3482,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398764456,28068,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398764456,17910,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398765507,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398765507,1515,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398765507,28161,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398765507,7575,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398766507,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398766507,3535,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398766507,28218,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398766507,14646,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398767507,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398767507,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398767507,28084,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398767507,10000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398768508,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398768508,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398768508,28097,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398768508,16500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398769508,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398769508,3482,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398769508,28145,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398769508,9452,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398770508,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398770508,3571,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398770508,28549,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398770508,20408,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398771509,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398771509,2970,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398771509,28730,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398771509,14356,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398772509,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398772509,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398772509,28639,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398772509,17171,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398773510,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398773510,2010,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398773510,28627,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398773510,15577,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398774510,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398774510,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398774510,28485,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398774510,19696,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398775511,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398775511,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398775511,28481,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398775511,7070,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398776511,76,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398776511,3414,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398776511,28349,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398776511,20487,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398777511,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398777511,1990,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398777512,28156,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398777512,6965,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398778512,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398778512,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398778512,28023,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398778512,15000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398779512,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398779512,2010,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398779512,28003,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398779512,7537,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398780514,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398780514,4522,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398780514,28045,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398780514,21105,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398781514,1648,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398781514,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398781514,28003,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398781514,9950,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398782515,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398782515,2551,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398782515,27872,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398782515,14795,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398783515,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398783515,1990,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398783515,27500,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398783515,5970,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398784516,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398784516,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398784516,27448,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398784516,7537,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398785516,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398785516,1515,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398785516,27531,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398785516,8585,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398786516,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398786516,3960,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398786516,28037,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398786516,16336,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398787517,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398787517,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398787517,28110,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398787517,10552,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398788517,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398788517,3482,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398788517,28088,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398788517,12935,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398789518,16,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398789518,2010,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398789518,28029,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398789518,9547,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398790518,8,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398790518,3980,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398790518,27842,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398790518,8955,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398791518,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398791518,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398791518,28062,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398791518,10945,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398792519,12,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398792519,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398792519,28471,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398792519,21717,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398793519,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398793519,4455,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398793519,28645,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398793519,16831,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398794519,12,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398794519,3465,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398794520,28702,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398794520,26237,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398795520,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398795520,1990,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398795520,28652,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398795520,13930,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398796520,12,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398796520,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398796520,28525,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398796520,13197,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398797521,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398797521,3571,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398797521,28699,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398797521,17346,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398798521,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398798521,2941,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398798521,28588,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398798522,18627,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398799522,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398799522,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398799522,28166,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398799522,9547,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398800522,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398800523,2538,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398800523,28095,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398800523,13197,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398801523,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398801523,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398801523,28089,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398801523,9950,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398802523,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398802523,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398802523,27928,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398802523,14499,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398803524,1612,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398803524,4081,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398803524,28098,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398803524,11224,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398804524,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398804524,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398804524,27970,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398804524,11055,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398805525,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398805525,2000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398805525,27598,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398805525,9000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398806525,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398806525,1492,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398806525,27462,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398806525,10945,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398807526,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398807526,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398807526,27545,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398807526,7500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398808526,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398808526,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398808526,27815,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398808526,15656,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398809527,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398809527,3448,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398809527,28081,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398809527,12807,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398810527,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398810527,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398810527,28260,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398810527,13065,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398811528,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398811528,1000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398811528,28052,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398811528,8500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398812528,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398812528,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398812528,28133,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398812528,10500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398813528,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398813528,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398813528,28185,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398813528,12121,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398814529,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398814529,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398814529,28486,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398814529,16500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398815529,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398815529,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398815529,28664,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398815529,16500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398816530,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398816530,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398816530,28880,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398816530,15500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398817597,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398817597,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398817597,28553,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398817597,15000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398818597,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398818597,3535,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398818597,28421,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398818597,9090,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398819597,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398819598,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398819598,28781,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398819598,26000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398820598,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398820598,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398820598,28640,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398820598,14000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398821598,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398821598,4522,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398821598,28232,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398821598,13567,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398822599,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398822599,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398822599,28289,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398822599,13131,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398823599,24,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398823599,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398823599,27957,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398823599,9547,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398824600,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398824600,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398824600,27959,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398824600,9452,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398825600,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398825600,4568,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398825600,28098,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398825600,19796,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398826600,896,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398826600,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398826600,28019,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398826600,7960,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398827601,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398827601,6060,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398827601,27727,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398827601,9090,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398828601,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398828601,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398828601,27543,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398828601,6532,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398829646,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398829646,3061,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398829646,27545,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398829646,11224,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398830646,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398830646,4040,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398830646,27723,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398830646,9090,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398831647,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398831647,4040,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398831647,28073,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398831647,17171,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398832647,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398832647,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398832647,28167,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398832647,8955,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398833647,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398833647,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398833647,28170,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398833648,10552,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398834648,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398834648,1507,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398834648,28011,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398834648,10552,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398835648,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398835648,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398835648,28098,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398835648,14070,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398836649,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398836649,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398836649,28278,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398836649,12121,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398837649,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398837649,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398837649,28598,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398837649,20603,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398838650,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398838650,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398838650,28731,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398838650,10447,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398839650,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398839650,3482,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398839650,28524,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398839650,19900,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398840650,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398840650,1010,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398840650,28443,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398840650,13131,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398841651,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398841651,5527,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398841651,28713,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398841651,23618,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398842651,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398842651,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398842651,28526,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398842651,9452,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398843651,192,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398843651,4040,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398843651,28307,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398843651,17171,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398844652,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398844652,2000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398844652,28237,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398844652,9500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398845652,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398845652,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398845652,28020,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398845652,13500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398846652,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398846652,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398846652,28053,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398846652,8000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398847653,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398847653,5050,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398847653,28181,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398847653,19696,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398848653,5068,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398848653,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398848653,28182,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398848653,7106,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398849654,184,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398849654,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398849654,27728,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398849654,9090,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398850654,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398850654,2030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398850654,27548,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398850654,6598,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398851654,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398851655,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398851655,27544,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398851655,12182,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398852655,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398852655,2970,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398852655,27733,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398852655,9405,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398853655,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398853655,4081,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398853655,28080,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398853655,17346,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398854656,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398854656,502,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398854656,28167,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398854656,8542,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398855656,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398855656,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398855656,28174,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398855656,12000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398856656,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398856656,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398856657,28088,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398856657,8585,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398857657,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398857657,3980,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398857657,28142,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398857657,15920,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398858657,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398858657,3921,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398858657,28233,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398858657,9313,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398859657,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398859658,4568,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398859658,28579,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398859658,17766,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398860658,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398860658,3589,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398860658,28841,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398860658,15384,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398861658,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398861658,3482,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398861658,28537,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398861658,19402,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398862659,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398862659,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398862659,28630,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398862659,15500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398863659,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398863659,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398863659,28626,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398863659,23115,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398864659,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398864659,2030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398864659,28571,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398864659,8121,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398865660,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398865660,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398865660,28575,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398865660,17500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398866660,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398866660,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398866660,28156,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398866660,10606,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398867660,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398867660,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398867660,27985,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398867660,13500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398868661,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398868661,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398868661,28017,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398868661,9500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398869661,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398869661,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398869661,28160,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398869661,11557,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398870661,3160,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398870661,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398870661,28183,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398870661,12500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398871662,8,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398871662,2564,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398871662,28002,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398871662,8205,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398872662,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398872662,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398872662,27553,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398872662,7462,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398873662,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398873662,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398873662,27468,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398873662,7462,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398874663,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398874663,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398874663,27550,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398874663,8542,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398875663,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398875663,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398875663,27816,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398875663,10152,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398876663,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398876664,3448,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398876664,28093,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398876664,13793,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398877664,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398877664,2538,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398877664,28262,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398877664,13197,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398878664,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398878664,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398878664,28231,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398878664,10500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398879671,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398879671,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398879671,28109,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398879671,11442,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398880672,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398880672,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398880672,28167,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398880672,14070,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398881672,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398881672,3980,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398881672,28647,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398881672,18407,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398882672,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398882672,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398882672,28712,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398882672,14000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398883673,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398883673,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398883673,28853,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398883673,17587,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398884673,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398884673,3553,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398884673,28692,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398884673,13705,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398885674,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398885674,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398885674,28425,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398885674,14000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398886674,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398886674,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398886674,28752,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398886674,19000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398887674,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398887675,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398887675,28629,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398887675,15228,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398888675,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398888675,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398888675,28077,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398888675,11111,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398889675,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398889675,1990,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398889675,28108,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398889675,15920,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398890675,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398890676,3960,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398890676,27990,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398890676,10396,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398891676,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398891676,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398891676,27969,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398891676,12562,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398892676,580,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398892676,4433,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398892676,28177,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398892676,18226,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398893676,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398893676,3535,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398893676,28061,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398893676,8585,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398894677,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398894677,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398894677,27525,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398894677,9547,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398895677,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398895677,2010,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398895677,27467,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398895677,7537,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398896677,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398896678,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398896678,27526,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398896678,11000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398897678,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398897678,3571,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398897678,27832,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398897678,10204,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398898678,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398898678,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398898678,28116,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398898678,15000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398899679,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398899679,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398899679,28002,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398899679,8080,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398900679,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398900679,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398900679,28179,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398900679,10945,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398901679,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398901679,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398901679,28018,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398901679,12121,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398902680,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398902680,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398902680,28074,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398902680,15000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398903680,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398903680,3553,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398903680,28486,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398903680,21827,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398904680,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398904681,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398904681,28701,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398904681,15151,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398905681,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398905681,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398905681,28751,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398905681,16080,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398906681,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398906681,4477,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398906681,28535,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398906681,13930,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398907682,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398907682,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398907682,28319,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398907682,12626,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398908682,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398908682,3940,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398908682,28560,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398908682,23152,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398909682,64,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398909682,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398909682,28462,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398909682,11055,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398910683,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398910683,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398910683,28302,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398910683,16500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398911683,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398911683,3589,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398911683,28376,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398911683,13333,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398912683,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398912683,3980,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398912683,28007,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398912683,11940,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398913684,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398913684,1530,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398913684,28005,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398913684,13265,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398914684,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398914684,3465,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398914684,28148,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398914684,19306,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398915684,4252,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398915685,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398915685,28059,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398915685,10101,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398916685,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398916685,3535,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398916685,27827,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398916685,7070,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398917685,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398917685,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398917685,27559,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398917685,7000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398918685,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398918685,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398918685,27533,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398918685,10606,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398919686,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398919686,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398919686,27710,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398919686,9500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398920686,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398920686,3535,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398920686,28102,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398920686,14141,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398921686,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398921686,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398921686,28056,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398921686,8500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398922687,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398922687,1515,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398922687,28145,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398922687,15151,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398923687,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398923687,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398923687,28084,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398923687,9000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398924688,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398924688,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398924688,28204,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398924688,14000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398925688,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398925688,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398925688,28216,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398925688,14070,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398926688,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398926688,5050,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398926688,28520,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398926688,15151,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398927689,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398927689,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398927689,28726,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398927689,17587,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398928690,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398928690,1951,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398928690,28503,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398928690,19512,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398929690,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398929690,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398929690,28471,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398929690,14000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398930690,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398930690,4040,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398930690,28554,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398930690,23737,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398931691,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398931691,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398931691,28629,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398931691,13930,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398932691,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398932691,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398932691,28573,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398932691,15000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398933691,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398933691,2010,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398933691,28170,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398933691,9547,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398934692,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398934692,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398934692,27936,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398934692,12000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398935692,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398935692,1515,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398935692,28022,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398935692,11111,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398936692,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398936692,4975,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398936692,28155,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398936692,18407,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398937693,1528,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398937693,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398937693,28209,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398937693,10552,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398938693,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398938693,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398938693,27976,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398938693,10050,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398939693,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398939693,3482,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398939693,27521,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398939693,7462,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398940694,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398940694,3465,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398940694,27526,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398940694,7920,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398941694,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398941694,2538,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398941694,27737,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398941694,11675,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398942694,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398942694,3571,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398942694,27922,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398942694,10204,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398943695,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398943695,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398943695,28097,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398943695,13432,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398944695,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398944695,3553,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398944695,28190,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398944695,14720,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398945695,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398945695,2010,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398945695,28138,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398945695,12060,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398946696,8,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398946696,2010,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398946696,28090,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398946696,9547,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398947696,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398947696,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398947696,28240,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398947696,16417,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398948697,20,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398948697,5365,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398948697,28686,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398948697,20487,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398949697,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398949697,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398949697,28717,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398949697,15228,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398950697,16,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398950697,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398950697,28688,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398950697,16080,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398951697,12,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398951697,5025,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398951697,28570,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398951697,16080,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398952698,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398952698,3482,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398952698,28627,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398952698,12437,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398953698,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398953698,2538,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398953698,28669,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398953698,18781,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398954698,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398954698,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398954698,28794,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398954698,15075,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398955699,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398955699,1500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398955699,28241,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398955699,12500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398956699,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398956699,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398956699,28241,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398956699,12060,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398957699,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398957699,4455,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398957699,28189,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398957699,11881,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398958700,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398958700,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398958700,27939,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398958700,11500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398959700,424,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398959700,4040,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398959700,28298,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398959700,18181,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398960700,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398960700,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398960700,28206,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398960700,9547,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398961701,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398961701,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398961701,27674,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398961701,9547,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398962701,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398962701,1500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398962701,27578,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398962701,9000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398963701,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398963701,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398963701,27679,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398963701,9595,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398964702,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398964702,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398964702,27940,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398964702,11500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398965746,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398965746,5025,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398965746,28209,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398965746,12060,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398966746,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398966746,2020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398966746,28111,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398966746,10606,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398967747,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398967747,2020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398967747,28291,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398967747,11616,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398968747,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398968747,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398968747,28297,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398968747,10945,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398969747,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398969748,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398969748,28379,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398969748,12935,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398970748,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398970748,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398970748,28787,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398970748,22110,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398971797,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398971797,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398971797,28723,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398971797,13131,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398972797,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398972797,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398972797,28685,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398972797,18181,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398973798,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398973798,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398973798,28740,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398973798,17587,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398974799,52,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398974799,3482,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398974799,28532,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398974799,14925,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398975800,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398975800,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398975800,28833,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398975800,25500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398976800,28,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398976800,4522,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398976800,28951,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398976800,13567,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398977800,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398977800,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398977800,28185,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398977800,7537,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398978801,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398978801,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398978801,28282,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398978801,10050,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398979801,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398979801,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398979801,28179,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398979801,12500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398980801,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398980801,1990,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398980801,28022,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398980801,8955,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398981802,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398981802,4522,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398981802,28260,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398981802,20603,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398982802,1744,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398982802,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398982802,28183,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398982802,6565,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398983802,32,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398983802,4081,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398983802,27855,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398983802,9183,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398984803,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398984803,1485,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398984803,27673,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398984803,4950,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398985803,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398985803,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398985803,27677,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398985803,11500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398986804,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398986804,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398986804,27939,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398986804,8585,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398987804,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398987804,5882,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398987804,28208,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398987804,19607,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398988804,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398988804,1005,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398988804,28152,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398988804,7537,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398989805,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398989805,4040,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398989805,28250,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398989805,16161,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398990805,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398990805,1980,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398990805,28141,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398990805,7425,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398991805,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398991805,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398991805,28344,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398991805,18500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398992806,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398992806,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398992806,28459,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398992806,13930,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398993806,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398993806,3535,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398993806,28609,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398993806,21212,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398994806,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398994807,2538,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398994807,28789,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398994807,11167,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398995807,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398995807,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398995807,28611,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398995807,18090,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398996807,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398996807,2020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398996807,28580,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398996807,13636,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398997808,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398997808,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398997808,28869,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398997808,26500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398998808,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398998808,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398998808,28587,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398998808,15075,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590398999808,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590398999808,1522,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590398999808,28657,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590398999808,9644,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399000809,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399000809,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399000809,28338,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399000809,12562,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399001809,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399001809,2010,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399001809,28103,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399001809,12060,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399002809,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399002809,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399002809,28044,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399002809,11500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399003810,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399003810,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399003810,28049,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399003810,12935,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399004810,5132,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399004810,6000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399004810,28136,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399004810,17500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399005811,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399005811,1522,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399005811,28047,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399005811,8121,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399006811,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399006811,4040,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399006811,27641,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399006811,11111,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399007811,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399007811,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399007811,27665,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399007811,7537,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399008812,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399008812,3980,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399008812,27872,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399008812,13930,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399009812,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399009812,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399009812,28002,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399009812,7000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399010812,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399010812,4060,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399010812,28173,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399010812,15228,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399011813,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399011813,3980,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399011813,28262,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399011813,10447,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399012813,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399012813,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399012813,28176,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399012813,11616,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399013814,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399013814,1970,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399013814,28226,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399013814,12315,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399014814,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399014814,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399014814,28341,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399014814,16582,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399015814,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399015814,4477,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399015814,28607,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399015814,15920,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399016815,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399016815,3980,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399016815,28872,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399016815,18407,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399017815,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399017815,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399017815,28803,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399017815,15075,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399018815,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399018815,3448,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399018815,28533,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399018815,13793,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399019816,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399019816,1990,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399019816,28607,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399019816,14925,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399020816,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399020816,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399020816,28794,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399020816,21500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399021817,104,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399021817,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399021817,28722,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399021817,12060,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399022817,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399022817,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399022817,28314,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399022817,12437,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399023817,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399023817,1507,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399023817,28157,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399023817,12060,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399024818,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399024818,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399024818,28064,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399024818,11000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399025818,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399025818,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399025818,28017,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399025818,12000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399026818,580,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399026819,4477,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399026819,28142,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399026819,15422,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399027819,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399027819,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399027819,28045,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399027819,10500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399028819,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399028819,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399028819,27728,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399028819,9045,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399029820,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399029820,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399029820,27546,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399029820,8542,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399030820,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399030820,2551,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399030820,27840,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399030820,11734,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399031820,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399031820,1485,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399031820,27963,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399031820,11881,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399032821,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399032821,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399032821,28169,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399032821,13131,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399033821,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399033821,1500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399033821,28053,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399033821,9500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399034821,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399034821,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399034821,28020,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399034821,12000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399035822,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399035822,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399035822,28099,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399035822,9500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399036822,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399036822,4040,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399036822,28227,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399036822,11111,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399037822,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399037822,3535,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399037822,28794,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399037822,22222,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399038823,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399038823,4455,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399038823,28974,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399038823,17821,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399039823,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399039823,2538,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399039823,28772,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399039823,15736,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399040823,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399040823,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399040823,28553,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399040823,15736,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399041824,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399041824,1485,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399041824,28585,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399041824,15346,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399042824,56,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399042824,4545,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399042824,28553,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399042824,19696,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399043825,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399043825,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399043825,28648,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399043825,12060,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399044825,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399044825,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399044825,28405,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399044825,14213,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399045825,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399045826,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399045826,28045,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399045826,9000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399046826,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399046826,4040,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399046826,27940,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399046826,9090,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399047834,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399047834,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399047834,28066,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399047834,10447,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399048834,3244,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399048834,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399048834,28076,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399048834,15075,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399049834,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399049834,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399049834,28158,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399049834,15422,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399050835,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399050835,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399050835,27872,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399050835,9045,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399051835,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399051835,2020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399051835,27557,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399051835,9595,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399052835,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399052835,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399052835,27645,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399052835,10000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399053836,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399053836,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399053836,27915,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399053836,12121,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399054836,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399054836,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399054836,28180,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399054836,13000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399055836,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399055836,2538,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399055836,28165,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399055836,7614,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399056837,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399056837,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399056837,28338,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399056837,14572,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399057837,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399057837,1515,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399057837,28231,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399057837,8080,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399058837,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399058837,3414,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399058837,28310,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399058837,13658,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399059838,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399059838,2000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399059838,28530,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399059838,14499,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399060838,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399060838,6060,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399060838,28878,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399060838,17171,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399061838,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399061838,4040,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399061838,28763,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399061838,11111,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399062839,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399062839,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399062839,28782,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399062839,17500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399063839,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399063839,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399063839,28627,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399063839,12500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399064839,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399064839,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399064839,28351,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399064839,13567,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399065840,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399065840,5025,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399065840,28835,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399065840,21105,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399066840,268,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399066840,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399066840,28659,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399066840,15075,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399067840,52,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399067840,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399067840,28152,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399067840,10500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399068841,64,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399068841,5418,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399068841,28094,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399068841,13300,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399069841,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399069841,2020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399069841,28073,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399069841,9595,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399070841,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399070841,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399070841,28076,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399070841,13500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399071842,1176,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399071842,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399071842,28228,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399071842,15000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399072842,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399072842,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399072842,28061,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399072842,8080,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399073842,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399073842,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399073842,27820,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399073842,8000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399074843,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399074843,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399074843,27616,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399074843,8457,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399075843,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399075843,2538,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399075843,27911,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399075843,12690,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399076843,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399076843,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399076843,27994,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399076843,7070,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399077844,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399077844,4975,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399077844,28179,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399077844,15422,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399078844,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399078844,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399078844,28261,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399078844,14499,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399079845,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399079845,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399079845,28177,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399079845,9547,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399080845,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399080845,3482,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399080845,28271,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399080845,13432,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399081845,8,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399081845,3980,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399081845,28583,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399081845,17910,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399082846,8,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399082846,1000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399082846,28642,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399082846,12500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399083846,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399083846,5000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399083846,28818,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399083846,21000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399084846,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399084846,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399084846,28661,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399084846,15500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399085847,88,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399085847,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399085847,28452,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399085847,13567,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399086847,12,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399086847,2020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399086847,28701,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399086847,16161,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399087847,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399087847,5825,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399087847,28836,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399087847,22815,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399088847,16,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399088847,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399088848,28663,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399088848,12000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399089848,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399089848,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399089848,28394,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399089848,12500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399090848,8,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399090848,2020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399090848,28134,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399090848,11111,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399091849,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399091849,3553,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399091849,27965,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399091849,10659,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399092849,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399092849,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399092849,28023,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399092849,10447,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399093849,1968,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399093850,3553,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399093850,28149,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399093850,18781,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399094850,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399094850,2030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399094850,28060,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399094850,7106,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399095850,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399095850,3571,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399095850,27826,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399095850,9183,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399096850,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399096850,1990,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399096850,27654,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399096850,7462,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399097851,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399097851,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399097851,27828,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399097851,12000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399098851,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399098851,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399098851,28004,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399098851,11055,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399099851,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399099851,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399099851,28183,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399099851,16582,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399100852,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399100852,3482,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399100852,28176,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399100852,12437,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399101852,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399101852,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399101852,28099,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399101852,11500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399102852,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399102852,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399102852,28178,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399102852,10945,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399103853,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399103853,4477,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399103853,28477,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399103853,19900,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399104853,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399104853,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399104853,28681,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399104853,15577,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399105854,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399105854,5025,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399105854,28915,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399105854,15075,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399106854,92,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399106854,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399106854,28663,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399106854,12437,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399107854,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399107855,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399107855,28620,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399107855,17766,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399108855,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399108855,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399108855,28562,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399108855,15577,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399109855,212,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399109855,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399109855,28625,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399109855,20603,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399110856,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399110856,4081,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399110856,28723,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399110856,15816,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399111856,112,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399111856,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399111856,28553,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399111856,12121,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399112856,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399112856,2030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399112856,28198,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399112856,10659,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399113856,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399113856,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399113857,28027,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399113857,10500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399114857,12,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399114857,2512,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399114857,28025,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399114857,13065,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399115857,2276,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399115857,3535,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399115857,27981,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399115857,12121,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399116858,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399116858,4477,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399116858,28057,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399116858,14925,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399117858,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399117858,1990,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399117858,27916,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399117858,8955,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399118858,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399118858,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399118858,27568,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399118858,8542,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399119859,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399119859,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399119859,27652,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399119859,8080,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399120859,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399120859,4000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399120859,28006,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399120859,15000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399121859,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399121859,3000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399121859,28177,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399121859,12000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399122860,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399122860,2020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399122860,28018,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399122860,11616,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399123860,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399123860,2020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399123860,28199,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399123860,13636,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399124861,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399124861,2020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399124861,28186,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399124861,12121,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399125861,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399125861,1507,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399125861,28187,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399125861,10050,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399126861,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399126861,4477,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399126861,28719,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399126861,22388,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399127862,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399127862,4477,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399127862,28916,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399127862,19900,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399128862,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399128862,2985,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399128862,28714,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399128862,14925,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399129862,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399129862,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399129862,28809,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399129862,15736,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399130863,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399130863,3482,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399130863,28664,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399130863,16417,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399131863,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399131863,2030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399131863,28518,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399131863,13705,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399132863,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399132863,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399132863,28697,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399132863,21717,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399133864,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399133864,2970,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399133864,28553,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399133864,12871,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399134864,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399134864,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399134864,28115,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399134864,10050,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399135864,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399135864,2487,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399135864,28147,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399135864,15422,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399136865,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399136865,3980,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399136865,28062,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399136865,8955,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399137865,3912,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399137865,5000,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399137865,28078,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399137865,13500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399138865,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399138865,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399138865,28118,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399138865,14070,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399139866,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399139866,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399139866,27898,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399139866,7035,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399140866,196,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399140866,3517,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399140866,27570,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399140866,9045,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399141866,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399141866,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399141866,27657,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399141866,9500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399142867,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399142867,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399142867,27921,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399142867,11500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399143867,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399143867,1522,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399143867,27976,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399143867,8121,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399144867,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399144867,3535,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399144867,28155,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399144867,12626,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399145868,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399145868,3030,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399145868,28350,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399145868,11111,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399146868,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399146868,2010,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399146868,28303,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399146868,7537,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399147868,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399147868,3015,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399147868,28453,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399147868,12562,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399148869,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399148869,4455,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399148869,28601,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399148869,16831,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399149869,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399149869,4040,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399149869,28692,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399149869,14141,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399150869,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399150869,3980,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399150869,28741,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399150869,20398,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399151870,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399151870,3045,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399151870,28626,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399151870,17766,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399152870,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399152870,2551,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399152870,28589,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399152870,14285,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399153871,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399153871,3535,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399153871,28677,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399153871,14646,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399154871,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399154871,4500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399154871,28847,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399154871,20500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399155871,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399155871,2010,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399155871,28581,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399155871,9547,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399156871,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399156871,2538,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399156871,28262,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399156871,10659,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399157872,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399157872,2525,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399157872,27995,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399157872,10606,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399158872,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399158872,4477,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399158872,28035,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399158872,12437,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399159873,4,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399159873,4020,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399159873,28058,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399159873,9045,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399160873,2644,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399160873,5527,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399160873,28298,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399160873,15075,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399161873,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399161873,2500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399161873,28107,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399161873,7500,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399162874,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399162874,2538,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399162874,27740,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399162874,7614,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399163874,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399163874,4040,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399163874,27660,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399163874,9595,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0
+1590399164874,0,virtual.lab.inf.uva.es Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1590399164874,3500,virtual.lab.inf.uva.es CPU system,,,,,true,,0,0,0,0,null,0,0,0
+1590399164874,27894,virtual.lab.inf.uva.es Memory,,,,,true,,0,0,0,0,null,0,0,0
+1590399164874,11000,virtual.lab.inf.uva.es CPU user,,,,,true,,0,0,0,0,null,0,0,0

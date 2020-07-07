@@ -1,0 +1,140 @@
+La regla es inútil debido a los conflictos
+
+    5 work_animal: HORSE
+
+
+Estado 1 conflictos: 1 reducción/reducción
+
+
+Gramática
+
+    0 $accept: phrase $end
+
+    1 phrase: cart_animal AND CART
+    2       | work_animal AND PLOW
+
+    3 cart_animal: HORSE
+    4            | GOAT
+
+    5 work_animal: HORSE
+    6            | OX
+
+
+Terminales con las reglas donde aparecen
+
+    $end (0) 0
+    error (256)
+    CART (258) 1
+    PLOW (259) 2
+    AND (260) 1 2
+    HORSE (261) 3 5
+    GOAT (262) 4
+    OX (263) 6
+
+
+No terminales con las reglas donde aparecen
+
+    $accept (9)
+        on left: 0
+    phrase (10)
+        on left: 1 2
+        on right: 0
+    cart_animal (11)
+        on left: 3 4
+        on right: 1
+    work_animal (12)
+        on left: 5 6
+        on right: 2
+
+
+Estado 0
+
+    0 $accept: . phrase $end
+
+    HORSE  desplazar e ir al estado 1
+    GOAT   desplazar e ir al estado 2
+    OX     desplazar e ir al estado 3
+
+    phrase       ir al estado 4
+    cart_animal  ir al estado 5
+    work_animal  ir al estado 6
+
+
+Estado 1
+
+    3 cart_animal: HORSE .
+    5 work_animal: HORSE .
+
+    AND       reduce usando la regla 3 (cart_animal)
+    AND       [reduce usando la regla 5 (work_animal)]
+    $default  reduce usando la regla 3 (cart_animal)
+
+
+Estado 2
+
+    4 cart_animal: GOAT .
+
+    $default  reduce usando la regla 4 (cart_animal)
+
+
+Estado 3
+
+    6 work_animal: OX .
+
+    $default  reduce usando la regla 6 (work_animal)
+
+
+Estado 4
+
+    0 $accept: phrase . $end
+
+    $end  desplazar e ir al estado 7
+
+
+Estado 5
+
+    1 phrase: cart_animal . AND CART
+
+    AND  desplazar e ir al estado 8
+
+
+Estado 6
+
+    2 phrase: work_animal . AND PLOW
+
+    AND  desplazar e ir al estado 9
+
+
+Estado 7
+
+    0 $accept: phrase $end .
+
+    $default  aceptar
+
+
+Estado 8
+
+    1 phrase: cart_animal AND . CART
+
+    CART  desplazar e ir al estado 10
+
+
+Estado 9
+
+    2 phrase: work_animal AND . PLOW
+
+    PLOW  desplazar e ir al estado 11
+
+
+Estado 10
+
+    1 phrase: cart_animal AND CART .
+
+    $default  reduce usando la regla 1 (phrase)
+
+
+Estado 11
+
+    2 phrase: work_animal AND PLOW .
+
+    $default  reduce usando la regla 2 (phrase)

@@ -1,0 +1,8 @@
+
+1. Paralelizar el código de multiplicación de matrices clásico
+
+2. Intentar diferentes opciones:
+	¿Qué bucle es mejor paralelizar?
+	¿Se puede paralelizar cualquiera sin afectar a la corrección?
+	¿Y si se invierten los dos bucles interiores para aprovechar mejor las caches?
+

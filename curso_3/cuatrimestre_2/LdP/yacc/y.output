@@ -1,0 +1,83 @@
+Gramática
+
+    0 $accept: S $end
+
+    1 S: 'h' 'o' 'l' 'a' '\n'
+
+
+Terminales con las reglas donde aparecen
+
+    $end (0) 0
+    '\n' (10) 1
+    'a' (97) 1
+    'h' (104) 1
+    'l' (108) 1
+    'o' (111) 1
+    error (256)
+
+
+No terminales con las reglas donde aparecen
+
+    $accept (8)
+        on left: 0
+    S (9)
+        on left: 1
+        on right: 0
+
+
+Estado 0
+
+    0 $accept: . S $end
+
+    'h'  desplazar e ir al estado 1
+
+    S  ir al estado 2
+
+
+Estado 1
+
+    1 S: 'h' . 'o' 'l' 'a' '\n'
+
+    'o'  desplazar e ir al estado 3
+
+
+Estado 2
+
+    0 $accept: S . $end
+
+    $end  desplazar e ir al estado 4
+
+
+Estado 3
+
+    1 S: 'h' 'o' . 'l' 'a' '\n'
+
+    'l'  desplazar e ir al estado 5
+
+
+Estado 4
+
+    0 $accept: S $end .
+
+    $default  aceptar
+
+
+Estado 5
+
+    1 S: 'h' 'o' 'l' . 'a' '\n'
+
+    'a'  desplazar e ir al estado 6
+
+
+Estado 6
+
+    1 S: 'h' 'o' 'l' 'a' . '\n'
+
+    '\n'  desplazar e ir al estado 7
+
+
+Estado 7
+
+    1 S: 'h' 'o' 'l' 'a' '\n' .
+
+    $default  reduce usando la regla 1 (S)

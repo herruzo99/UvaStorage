@@ -1,0 +1,5 @@
+
+1. Optimizar el uso de cache en los accesos de datos del programa original matrixMult.c
+
+2. Pruebas de alineamiento de cache usando matrixMult2.c
+

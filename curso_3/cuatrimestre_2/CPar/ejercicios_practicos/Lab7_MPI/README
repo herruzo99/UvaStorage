@@ -1,0 +1,49 @@
+
+Ejemplo de uso de modos de comunicación 
+---------------------------------------
+	Este programa tiene dos argumentos, un tamaño de array <size>
+	y un salto <jump>. Cada proceso reserva memoria para dos arrays
+	de ese tamaño y rellena el primero con valores diferentes.
+	
+	Cada proceso manda su array al proceso que tiene un rank igual
+	al suyo + jump en rotación circular. Y recibe en el segundo array
+	los datos que llegan desde el proceso rank - jump en rotación circular.
+
+	1) Completar los puntos suspensivos para que el programa funcione
+		correctamente.
+	2) Probar que es correcto para arrays de longitud 10, con un número
+		de procesos igual a 5 y 8, y saltos con valor 3 y 4.
+	3) Comprobar qué ocurre si el numero de salto es igual o mayor al número 
+		de procesos.
+
+	4) Para 5 procesos y salto 2, ir incrementando el tamaño del array
+		en potencias de 10 (10, 100, 1000, 10000, 100000, ...)
+		hasta que las comunicaciones en modo estándar pasen de ser buffered
+		a ser synchronous. ¿Cómo se nota cuándo ocurre esto?
+
+	5) Resolver el problema utilizando comunicaciones no bloqueantes.
+		Comprobar que funciona correctamente con tamaños de array mayores.
+
+Ejemplo de uso de tipos derivados struct
+----------------------------------------
+	Este código utiliza un struct para representar rectángulos, con
+	la posición (x,y) de su esquina inferior izquierda, y dos tamaños
+	(ancho,alto). Tiene además un campo extra para recordar el rank
+	del proceso en que se generó la información del rectángulo.
+
+	Cada proceso genera aleatórimente la información de un rectángulo.
+	La información de todos los rectángulos se recolecta en el último
+	proceso con una operación colectiva. Luego se manda el array con
+	todos los rectángulos al primer proceso utilizando una comunicación
+	punto a punto.
+
+	1) Rellenar los puntos suspensivos para que el programa funcione
+		correctamente. Probar con 2 a 12 procesos.
+
+	2) Crear un nuevo tipo derivado para comunicar arrays de nprocs 
+		posiciones de rectángulos. Modificar la comunicación en la que
+		el último proceso pasa el array completo al primero para que
+		utilice el nuevo tipo de datos con número de elementos 1. Es 
+		decir, se comunica un único elemento de un tipo array con 
+		contiene nproc elementos rectángulo.
+

@@ -1,0 +1,42 @@
+
+Ejemplo 1:
+	Compilar con mpi y ejecutar. Mandar a las dos colas MPI de tablon 
+	con diferentes numeros de procesos y verificar donde se ejecuta 
+	cada proceso.
+
+Ejemplo 2: 
+	Completar el codigo substituyendo los puntos suspensivos. Compilar y ejecutar.
+	Programa que crea un array distribuido por bloques contiguos. Cada proceso
+	inicializa su parte de forma que cada elemento tiene al final el valor
+	del índice que le correspondería en el array global (entre 0 y size-1).
+	Cada proceso escribe su parte.
+
+	Resolver sólo para el caso en que size del array es perfectamente divisible entre 
+	el número de procesos. Ejecutar con size 20 y 2 procesos, 4 procesos, etc. Comprobar
+	que siempre funciona correctamente.
+	¿Qué ocurre si se ejecuta con un número de procesos no divisible (por ejemplo 3 o 5)?
+
+Ejemplo 3:
+	Completar el codigo substituyendo los puntos suspensivos. Compilar y ejecutar.
+	Cada proceso manda su id o rank al siguiente. Cada proceso recibe el id del anterior
+	y verifica que el dato recibido es correcto. 
+	Casos particulares: El primero no recibe de nadie. El último no envía a nadie.
+
+Ejemplo 4:
+	Completar el codigo substituyendo los puntos suspensivos. Compilar y ejecutar.
+	Programa que calcula la suma de los cuadrados de los n primeros numeros naturales.
+	Cada proceso calcula un cuadrado. El primer proceso recibe en orden el dato calculado
+	por los demás y los suma.
+	(Es un ejemplo del uso de las comunicaciones punto a punto para realizar una reducción 
+	manualmente, de una forma no muy eficiente en cuanto a comunicaciones se refiere).
+
+Ejercicio:
+	Volver al ejemplo 2 de array distribuido.
+	Modificar el código para que soporte el caso en que size del array no siempre sea
+	perfectamente divisible entre el número de procesos. El reparto sigue siendo
+	por bloques consecutuivos, pero algunos procesos pueden tener un elemento más que
+	los otros. Escoger cuáles, calcular cuántos le tocan a cada uno, y en que elemento
+	del array global empieza cada uno.
+
+	Ejecutar con size 20 y 3 procesos, 5 procesos, etc. Comprobar que siempre funciona 
+	correctamente.

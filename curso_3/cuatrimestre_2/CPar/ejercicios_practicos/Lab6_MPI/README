@@ -1,0 +1,61 @@
+ 
+Generalizar reducción manual
+----------------------------
+	Este código es similar al del ejemplo 4 de la anterior sesión 
+	de prácticas. Se ejecuta una iteración de cálculos y reducciones.
+	La reducción se hace con Send/Recv, desde cada procesador al 0, que
+	va recibiendo en orden los mensajes y acumulando los resultados.
+	
+	1) Terminar el código substituyendo los puntos suspensivos.
+
+	2) Añadir control de errores MPI al programa. 
+		Comprobar que funciona correctamente. Cambiar el Send para que 
+		todos envíen al procesador 13000 o al procesador -5. Comprobar
+		que el control de errores detecta el problema.
+
+Wildcards
+---------
+
+	3) Utilizar MPI_ANY_SOURCE en la recepción para que no sea necesario
+		recibir los mensajes en el orden de número de procesador. 
+		Utilizar como tag el número de iteración para no confundir
+		mensajes que vengan del mismo proceso en diferentes iteraciones.
+		Comprobar que los resultados son correctos.
+
+Operaciones colectivas
+----------------------
+
+	4) Modificar el programa para que declare un array de tantos elementos
+		como procesos. En lugar de las comunicaciones con Send/Recv,
+		utilizar la operación colectiva Gather para que el procesador 0
+		reciba en el array los datos de todos (incluído el mismo).
+		El procesador 0 sumará los resultados obtenidos en ese array.
+		Comprobar que los resultados son correctos.
+	
+	5) Modificar el programa para que utilice la función MPI_Reduction
+		para obtener la suma en el procesador 0 en cada iteración.
+		Comprobar que los resultados son correctos.
+
+	6) Versión en el que todos los procesos calculan el resultado:
+		Cambiar los 2 programas anteriores para que todos los procesos
+		obtengan el resultado en cada iteración. 
+		- Versión 1: Utilizar Gather y Broadcast 
+		- Versión 2: Utilizar Allgather y que cada uno sume los 
+			resultados por su cuenta.
+		- Versión 3: Utilizar Allreduce
+		Comprobar que los resultados son correctos en todos
+		los procesadores.
+
+	7) Utilizar un número de iteraciones igual a 7000 para probar
+		las diferentes versiones del programa que usan operaciones
+		colectivas en la cola "mpi" de tablón con 12 procesadores.
+		Sacar conclusiones sobre la eficiencia de cada versión.
+
+Comunicadores
+-------------
+	8) Modificar el programa del punto 5 (el que utiliza la función
+		MPI_Reduction) para que el proceso 0 haga la suma de los datos
+		de los procesadores pares y el proceso 1 la suma de los datos
+		de los impares. Cada uno de ellos mostrará su resultado por
+		separado. Utilizar sub-comunicadores.
+

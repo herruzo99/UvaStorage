@@ -1,0 +1,321 @@
+Gramática
+
+    0 $accept: s $end
+
+    1 s: s p
+    2  | %empty
+
+    3 p: expr '\n'
+    4  | '\n'
+
+    5 expr: expr '+' prio
+    6     | expr '-' prio
+    7     | prio
+
+    8 prio: prio '*' una
+    9     | prio '/' una
+   10     | una
+
+   11 una: '-' term
+   12    | '+' term
+   13    | term
+
+   14 term: '(' expr ')'
+   15     | NUM
+
+
+Terminales con las reglas donde aparecen
+
+    $end (0) 0
+    '\n' (10) 3 4
+    '(' (40) 14
+    ')' (41) 14
+    '*' (42) 8
+    '+' (43) 5 12
+    '-' (45) 6 11
+    '/' (47) 9
+    error (256)
+    NUM (258) 15
+
+
+No terminales con las reglas donde aparecen
+
+    $accept (11)
+        on left: 0
+    s (12)
+        on left: 1 2
+        on right: 0 1
+    p (13)
+        on left: 3 4
+        on right: 1
+    expr (14)
+        on left: 5 6 7
+        on right: 3 5 6 14
+    prio (15)
+        on left: 8 9 10
+        on right: 5 6 7 8 9
+    una (16)
+        on left: 11 12 13
+        on right: 8 9 10
+    term (17)
+        on left: 14 15
+        on right: 11 12 13
+
+
+Estado 0
+
+    0 $accept: . s $end
+
+    $default  reduce usando la regla 2 (s)
+
+    s  ir al estado 1
+
+
+Estado 1
+
+    0 $accept: s . $end
+    1 s: s . p
+
+    $end  desplazar e ir al estado 2
+    NUM   desplazar e ir al estado 3
+    '\n'  desplazar e ir al estado 4
+    '+'   desplazar e ir al estado 5
+    '-'   desplazar e ir al estado 6
+    '('   desplazar e ir al estado 7
+
+    p     ir al estado 8
+    expr  ir al estado 9
+    prio  ir al estado 10
+    una   ir al estado 11
+    term  ir al estado 12
+
+
+Estado 2
+
+    0 $accept: s $end .
+
+    $default  aceptar
+
+
+Estado 3
+
+   15 term: NUM .
+
+    $default  reduce usando la regla 15 (term)
+
+
+Estado 4
+
+    4 p: '\n' .
+
+    $default  reduce usando la regla 4 (p)
+
+
+Estado 5
+
+   12 una: '+' . term
+
+    NUM  desplazar e ir al estado 3
+    '('  desplazar e ir al estado 7
+
+    term  ir al estado 13
+
+
+Estado 6
+
+   11 una: '-' . term
+
+    NUM  desplazar e ir al estado 3
+    '('  desplazar e ir al estado 7
+
+    term  ir al estado 14
+
+
+Estado 7
+
+   14 term: '(' . expr ')'
+
+    NUM  desplazar e ir al estado 3
+    '+'  desplazar e ir al estado 5
+    '-'  desplazar e ir al estado 6
+    '('  desplazar e ir al estado 7
+
+    expr  ir al estado 15
+    prio  ir al estado 10
+    una   ir al estado 11
+    term  ir al estado 12
+
+
+Estado 8
+
+    1 s: s p .
+
+    $default  reduce usando la regla 1 (s)
+
+
+Estado 9
+
+    3 p: expr . '\n'
+    5 expr: expr . '+' prio
+    6     | expr . '-' prio
+
+    '\n'  desplazar e ir al estado 16
+    '+'   desplazar e ir al estado 17
+    '-'   desplazar e ir al estado 18
+
+
+Estado 10
+
+    7 expr: prio .
+    8 prio: prio . '*' una
+    9     | prio . '/' una
+
+    '*'  desplazar e ir al estado 19
+    '/'  desplazar e ir al estado 20
+
+    $default  reduce usando la regla 7 (expr)
+
+
+Estado 11
+
+   10 prio: una .
+
+    $default  reduce usando la regla 10 (prio)
+
+
+Estado 12
+
+   13 una: term .
+
+    $default  reduce usando la regla 13 (una)
+
+
+Estado 13
+
+   12 una: '+' term .
+
+    $default  reduce usando la regla 12 (una)
+
+
+Estado 14
+
+   11 una: '-' term .
+
+    $default  reduce usando la regla 11 (una)
+
+
+Estado 15
+
+    5 expr: expr . '+' prio
+    6     | expr . '-' prio
+   14 term: '(' expr . ')'
+
+    '+'  desplazar e ir al estado 17
+    '-'  desplazar e ir al estado 18
+    ')'  desplazar e ir al estado 21
+
+
+Estado 16
+
+    3 p: expr '\n' .
+
+    $default  reduce usando la regla 3 (p)
+
+
+Estado 17
+
+    5 expr: expr '+' . prio
+
+    NUM  desplazar e ir al estado 3
+    '+'  desplazar e ir al estado 5
+    '-'  desplazar e ir al estado 6
+    '('  desplazar e ir al estado 7
+
+    prio  ir al estado 22
+    una   ir al estado 11
+    term  ir al estado 12
+
+
+Estado 18
+
+    6 expr: expr '-' . prio
+
+    NUM  desplazar e ir al estado 3
+    '+'  desplazar e ir al estado 5
+    '-'  desplazar e ir al estado 6
+    '('  desplazar e ir al estado 7
+
+    prio  ir al estado 23
+    una   ir al estado 11
+    term  ir al estado 12
+
+
+Estado 19
+
+    8 prio: prio '*' . una
+
+    NUM  desplazar e ir al estado 3
+    '+'  desplazar e ir al estado 5
+    '-'  desplazar e ir al estado 6
+    '('  desplazar e ir al estado 7
+
+    una   ir al estado 24
+    term  ir al estado 12
+
+
+Estado 20
+
+    9 prio: prio '/' . una
+
+    NUM  desplazar e ir al estado 3
+    '+'  desplazar e ir al estado 5
+    '-'  desplazar e ir al estado 6
+    '('  desplazar e ir al estado 7
+
+    una   ir al estado 25
+    term  ir al estado 12
+
+
+Estado 21
+
+   14 term: '(' expr ')' .
+
+    $default  reduce usando la regla 14 (term)
+
+
+Estado 22
+
+    5 expr: expr '+' prio .
+    8 prio: prio . '*' una
+    9     | prio . '/' una
+
+    '*'  desplazar e ir al estado 19
+    '/'  desplazar e ir al estado 20
+
+    $default  reduce usando la regla 5 (expr)
+
+
+Estado 23
+
+    6 expr: expr '-' prio .
+    8 prio: prio . '*' una
+    9     | prio . '/' una
+
+    '*'  desplazar e ir al estado 19
+    '/'  desplazar e ir al estado 20
+
+    $default  reduce usando la regla 6 (expr)
+
+
+Estado 24
+
+    8 prio: prio '*' una .
+
+    $default  reduce usando la regla 8 (prio)
+
+
+Estado 25
+
+    9 prio: prio '/' una .
+
+    $default  reduce usando la regla 9 (prio)
